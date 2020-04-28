@@ -1,0 +1,8515 @@
+# PhAct
+
+Generate a list of all actions provided by Phantom Apps (https://my.phantom.us/4.8/apps/)
+
+---
+
+
+## activate device
+_1 unique descriptions / Provided by 1 apps_
+
+* Activate a device
+  * Code42
+
+
+
+## activate partition
+_1 unique descriptions / Provided by 1 apps_
+
+* Activate a partition
+  * Windows Remote Management
+
+
+
+## activate user
+_1 unique descriptions / Provided by 1 apps_
+
+* Activate a user
+  * Code42
+
+
+
+## add acl
+_2 unique descriptions / Provided by 2 apps_
+
+* Add ACL to an instance
+  * AWS EC2
+* Add a NetworkAcl rule
+  * AWS Community App 2
+
+
+
+## add application group
+_1 unique descriptions / Provided by 1 apps_
+
+* Add an application security groups in a resource group
+  * Microsoft Azure Compute
+
+
+
+## add artifact
+_1 unique descriptions / Provided by 1 apps_
+
+* Add a value as a new artifact
+  * Phantom
+
+
+
+## add attachment
+_1 unique descriptions / Provided by 1 apps_
+
+* Uploads vaulted file as attachment to ticket
+  * Request Tracker
+
+
+
+## add category
+_1 unique descriptions / Provided by 1 apps_
+
+* Add API-managed category to Forcepoint
+  * Forcepoint Web Security
+
+
+
+## add collaborator
+_1 unique descriptions / Provided by 1 apps_
+
+* Add user as a collaborator to repo
+  * GitHub
+
+
+
+## add comment
+_3 unique descriptions / Provided by 3 apps_
+
+* Add a comment to a ticket
+  * Jira
+* Add a comment to an existing page
+  * Confluence
+* Add work log information to the incident
+  * BMC Remedy
+
+
+
+## add file
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a file in the local working directory
+  * Git
+
+
+
+## add firewall rule
+_1 unique descriptions / Provided by 1 apps_
+
+* Add a firewall rule using netsh
+  * Windows Remote Management
+
+
+
+## add group
+_1 unique descriptions / Provided by 1 apps_
+
+* Add a group
+  * Okta
+
+
+
+## add held account
+_1 unique descriptions / Provided by 1 apps_
+
+* Add held account to the given hold ID
+  * Google Vault
+
+
+
+## add indicators
+_1 unique descriptions / Provided by 1 apps_
+
+* Add new indicators
+  * Cybereason
+
+
+
+## add ip
+_1 unique descriptions / Provided by 1 apps_
+
+* Add a new IP to an existing IP set OR a new IP set
+  * AWS WAF
+
+
+
+## add labels
+_1 unique descriptions / Provided by 1 apps_
+
+* Add label(s) to an issue on the GitHub repository
+  * GitHub
+
+
+
+## add listitem
+_4 unique descriptions / Provided by 4 apps_
+
+* Add an item to a reference set in Qradar
+  * QRadar
+* Add to a list
+  * LogRhythm SIEM
+* Add url/category to local database file
+  * Symantec Management Center
+* Add value to a custom list
+  * Phantom
+
+
+
+## add member
+_2 unique descriptions / Provided by 2 apps_
+
+* Add a sender or domain to a Mimecast group
+  * Mimecast
+* Add user in a team
+  * GitHub
+
+
+
+## add network group
+_1 unique descriptions / Provided by 1 apps_
+
+* Add a network security group in a resource group
+  * Microsoft Azure Compute
+
+
+
+## add node
+_1 unique descriptions / Provided by 1 apps_
+
+* Add an existing node to a pool
+  * F5 BIG-IP LTM
+
+
+
+## add note
+_1 unique descriptions / Provided by 1 apps_
+
+* Add Note to the AWS Security Hub aggregated findings specified by the filter attributes
+  * AWS Security Hub
+
+
+
+## add parameter
+_1 unique descriptions / Provided by 1 apps_
+
+* Adds a parameter to the AWS account&#39;s Parameter Store
+  * AWS Systems Manager
+
+
+
+## add permission
+_1 unique descriptions / Provided by 1 apps_
+
+* Grants an AWS service or another account permission to use a function
+  * AWS Lambda
+
+
+
+## add policy
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a new policy on CB Defense
+  * Carbon Black Defense
+
+
+
+## add role
+_1 unique descriptions / Provided by 1 apps_
+
+* Add new role in AWS IAM account
+  * AWS IAM
+
+
+
+## add rule
+_1 unique descriptions / Provided by 1 apps_
+
+* Add a rule to a policy on CB Defense
+  * Carbon Black Defense
+
+
+
+## add security group
+_1 unique descriptions / Provided by 1 apps_
+
+* Adds the instance to a security group
+  * AWS Community App 2
+
+
+
+## add server
+_1 unique descriptions / Provided by 1 apps_
+
+* Add a server to an upstream
+  * NGINX
+
+
+
+## add static flow
+_1 unique descriptions / Provided by 1 apps_
+
+* Add a static flow rule.
+  * Floodlight SDN
+
+
+
+## add tag
+_4 unique descriptions / Provided by 4 apps_
+
+* Add a tag to an endpoint
+  * McAfee ePO
+* Add tag to an instance
+  * AWS EC2
+* Adds tag to instances
+  * AWS Community App 2
+* Attach Security Tag
+  * NSX
+
+
+
+## add target
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a new assessment target using the ARN of the resource group
+  * AWS Inspector
+
+
+
+## add user
+_3 unique descriptions / Provided by 3 apps_
+
+* Add a user to the provided group
+  * Alibaba RAM
+* Add a user to the tenant by creating an organizational account
+  * Azure AD Graph
+* Add user to a group
+  * AWS IAM
+
+
+
+## alert data lookup
+_1 unique descriptions / Provided by 1 apps_
+
+* Get details on alerts configured and generated by Recorded Future by alert rule ID and/or ...
+  * Recorded Future
+
+
+
+## alert rule lookup
+_1 unique descriptions / Provided by 1 apps_
+
+* Search for alert rule IDs by name
+  * Recorded Future
+
+
+
+## allow url
+_1 unique descriptions / Provided by 1 apps_
+
+* Allow an URL
+  * Blue Coat
+
+
+
+## alt manage ingestion
+_1 unique descriptions / Provided by 1 apps_
+
+* Manage ingestion details
+  * QRadar
+
+
+
+## analyze file
+_1 unique descriptions / Provided by 1 apps_
+
+* Analyze a file on a computer
+  * Carbon Black Protection (Bit9)
+
+
+
+## api quota
+_1 unique descriptions / Provided by 1 apps_
+
+* Find information about your API quota, like current usage, quota left, etc
+  * SlashNext Phishing Incident Response
+
+
+
+## archive finding
+_1 unique descriptions / Provided by 1 apps_
+
+* Archives Amazon GuardDuty findings specified by the detector ID and list of finding IDs
+  * AWS GuardDuty
+
+
+
+## archive findings
+_1 unique descriptions / Provided by 1 apps_
+
+* Archive the AWS Security Hub aggregated findings specified by the filter attributes
+  * AWS Security Hub
+
+
+
+## asg detach instance
+_1 unique descriptions / Provided by 1 apps_
+
+* Detaches an instance from an auto-scaling group
+  * AWS Community App
+
+
+
+## ask question
+_1 unique descriptions / Provided by 1 apps_
+
+* Ask a question to a Slack user
+  * Slack
+
+
+
+## assign hosts
+_1 unique descriptions / Provided by 1 apps_
+
+* Assign one or more hosts to the static host group
+  * CrowdStrike OAuth API
+
+
+
+## assign instance
+_1 unique descriptions / Provided by 1 apps_
+
+* Assign an instance to a security group
+  * AWS EC2
+
+
+
+## assign policy
+_1 unique descriptions / Provided by 1 apps_
+
+* Assign managed policy to the user
+  * AWS IAM
+
+
+
+## assign role
+_1 unique descriptions / Provided by 1 apps_
+
+* Assign a role to a user
+  * Okta
+
+
+
+## assign user
+_1 unique descriptions / Provided by 1 apps_
+
+* Assign the user to an offense
+  * QRadar
+
+
+
+## attach instance
+_1 unique descriptions / Provided by 1 apps_
+
+* Attach an instance to an autoscaling group
+  * AWS EC2
+
+
+
+## attach policy
+_2 unique descriptions / Provided by 2 apps_
+
+* Attach a policy to the provided user, group, or role
+  * Alibaba RAM
+* Attach managed policy to a role
+  * AWS IAM
+
+
+
+## backup box
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a JSON backup of the Corelight box
+  * Corelight
+
+
+
+## blacklist domain
+_2 unique descriptions / Provided by 2 apps_
+
+* Add a domain to the bad sender list
+  * Symantec Messaging Gateway
+* Blacklist domain
+  * NetWitness Endpoint
+
+
+
+## blacklist email
+_1 unique descriptions / Provided by 1 apps_
+
+* Add an email to the bad sender list
+  * Symantec Messaging Gateway
+
+
+
+## blacklist ip
+_6 unique descriptions / Provided by 6 apps_
+
+* Add an IP to the Blacklist
+  * ThreatX
+* Add an IP to the bad sender list
+  * Symantec Messaging Gateway
+* Add an IP to the outbound Blacklist
+  * Arbor APS
+* Blacklist IP
+  * NetWitness Endpoint
+* Blacklist IP by adding a rule to every subnet NACL accessible by credentials
+  * AWS Community App
+* Block an IP
+  * Zscaler
+
+
+
+## blacklist sender
+_1 unique descriptions / Provided by 1 apps_
+
+* Blacklists a specific sender and recipient in Mimecast
+  * Mimecast
+
+
+
+## blacklist url
+_2 unique descriptions / Provided by 2 apps_
+
+* Adds URL to a managed URL blacklist
+  * Mimecast
+* Block a URL
+  * Zscaler
+
+
+
+## block application
+_1 unique descriptions / Provided by 3 apps_
+
+* Block an application
+  * Palo Alto Networks Firewall
+  * Juniper SRX
+  * Panorama
+
+
+
+## block arp
+_1 unique descriptions / Provided by 1 apps_
+
+* Block ARP packets sourced from this MAC.
+  * Floodlight SDN
+
+
+
+## block device
+_1 unique descriptions / Provided by 1 apps_
+
+* Block a device
+  * Code42
+
+
+
+## block domain
+_2 unique descriptions / Provided by 2 apps_
+
+* Block a domain
+  * OpenDNS Umbrella
+* Block domain
+  * Infoblox DDI
+
+
+
+## block file path
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a new AppLocker policy to block a file path
+  * Windows Remote Management
+
+
+
+## block flow
+_1 unique descriptions / Provided by 1 apps_
+
+* Block network traffic matching flow parameters.
+  * Floodlight SDN
+
+
+
+## block hash
+_5 unique descriptions / Provided by 6 apps_
+
+* Add a file to the Global Quarantine list
+  * Cylance
+* Add a hash to the Carbon Black Response blacklist
+  * Carbon Black Response
+* Ban the file hash
+  * Carbon Black Protection (Bit9)
+* Block a file hash
+  * SentinelOne
+  * CylancePROTECT
+* Block hashes on endpoints
+  * Symantec Endpoint Protection 14
+
+
+
+## block ip
+_13 unique descriptions / Provided by 25 apps_
+
+* Add an IP to the outbound Blacklist
+  * Arbor APS
+* Add an iptables rule to linux server. Requires root privileges. Not supported on OS X.
+  * SSH
+* Block IP
+  * Infoblox DDI
+* Block IP or list of IPs by adding them to the supplied category
+  * Forcepoint Web Security
+* Block an IP
+  * FortiGate
+  * Zscaler
+  * Palo Alto Networks Firewall
+  * ThreatX
+  * Forcepoint Firewall
+  * McAfee Network Security Manager
+  * NSX
+  * SonicWALL
+  * Apresia 26000 series
+  * TiFRONT
+  * Juniper SRX
+  * Cisco ASA
+  * Panorama
+* Block an IP address or network.
+  * SecureSphere WAF
+* Block an IP/subnet
+  * Check Point Firewall
+* Block traffic to/from the matching IP.
+  * Floodlight SDN
+* Blocks an IP
+  * Cisco Router BGP RTBH
+* Blocks an IP address
+  * F5 BIG-IP
+* Blocks an IP address or network
+  * A10 LADS
+* Blocks an IP network
+  * Cisco Firepower
+* Create a firewall rule to block a specified IP
+  * Windows Remote Management
+
+
+
+## block mac address
+_1 unique descriptions / Provided by 1 apps_
+
+* Block traffic to/from the matching MAC
+  * Floodlight SDN
+
+
+
+## block network
+_1 unique descriptions / Provided by 1 apps_
+
+* Blocks an IP network
+  * Cisco Router BGP RTBH
+
+
+
+## block port
+_1 unique descriptions / Provided by 1 apps_
+
+* Block an application port
+  * NSX
+
+
+
+## block sender
+_1 unique descriptions / Provided by 1 apps_
+
+* Add the sender email into the block list
+  * EWS for Office 365
+
+
+
+## block service
+_1 unique descriptions / Provided by 1 apps_
+
+* Block a network service
+  * SonicWALL
+
+
+
+## block subnet
+_1 unique descriptions / Provided by 1 apps_
+
+* Block traffic to/from the matching IP subnet.
+  * Floodlight SDN
+
+
+
+## block url
+_3 unique descriptions / Provided by 6 apps_
+
+* Block URL or list of URLs by adding them to the supplied category
+  * Forcepoint Web Security
+* Block a URL
+  * Zscaler
+* Block an URL
+  * Palo Alto Networks Firewall
+  * SonicWALL
+  * Blue Coat
+  * Panorama
+
+
+
+## cancel notification
+_1 unique descriptions / Provided by 1 apps_
+
+* Cancel the sending of a notifcation
+  * AlertFind
+
+
+
+## cancel_job
+_1 unique descriptions / Provided by 1 apps_
+
+* Cancel a job
+  * Verodin
+
+
+
+## change organization
+_1 unique descriptions / Provided by 1 apps_
+
+* Move a user to specific organization
+  * Code42
+
+
+
+## change system ou
+_1 unique descriptions / Provided by 1 apps_
+
+* Change the OU of a computer/system
+  * LDAP
+
+
+
+## check host
+_1 unique descriptions / Provided by 1 apps_
+
+* Verify whether a host is Deceptive
+  * Attivo
+
+
+
+## check results
+_1 unique descriptions / Provided by 1 apps_
+
+* Check the results for 202
+  * Corelight
+
+
+
+## check status
+_3 unique descriptions / Provided by 3 apps_
+
+* Check status of sample (file or URL) submitted in the Falcon Sandbox
+  * Falcon Sandbox
+* Check status of sample file or URL submitted for analysis
+  * Joe Sandbox v2
+* Check the status of an action
+  * Symantec ATP
+
+
+
+## check url hash
+_1 unique descriptions / Provided by 1 apps_
+
+* Determine a SHA256 that an online file or URL submission will have when being processed ...
+  * Falcon Sandbox
+
+
+
+## check user
+_1 unique descriptions / Provided by 1 apps_
+
+* Verify whether a user is Deceptive
+  * Attivo
+
+
+
+## clear static flows
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove all static flow rules.
+  * Floodlight SDN
+
+
+
+## clone repo
+_1 unique descriptions / Provided by 1 apps_
+
+* Clone the repo
+  * Git
+
+
+
+## close alert
+_1 unique descriptions / Provided by 1 apps_
+
+* Close an alert in the IntSights dashboard
+  * IntSights
+
+
+
+## close matter
+_1 unique descriptions / Provided by 1 apps_
+
+* Move a matter to the CLOSED state
+  * Google Vault
+
+
+
+## close offense
+_1 unique descriptions / Provided by 1 apps_
+
+* Close an active offense, marking status=CLOSED
+  * QRadar
+
+
+
+## comment on alert
+_1 unique descriptions / Provided by 1 apps_
+
+* Adds a comment to an Alert within IronDefense
+  * IronNet
+
+
+
+## configure ssh
+_1 unique descriptions / Provided by 1 apps_
+
+* Create an RSA Key pair for SSH connectivity
+  * Git
+
+
+
+## context query
+_1 unique descriptions / Provided by 1 apps_
+
+* Query Threat Response for Context
+  * Cisco Threat Response
+
+
+
+## copy email
+_1 unique descriptions / Provided by 3 apps_
+
+* Copy an email to a folder
+  * Microsoft Exchange On-Premise EWS
+  * EWS for Office 365
+  * MS Graph for Office 365
+
+
+
+## copy file
+_1 unique descriptions / Provided by 1 apps_
+
+* Run the copy command on the Windows Endpoint
+  * Windows Remote Management
+
+
+
+## create adversary
+_1 unique descriptions / Provided by 1 apps_
+
+* Create Adversary in ThreatQ
+  * ThreatQ
+
+
+
+## create alert
+_3 unique descriptions / Provided by 3 apps_
+
+* Create a new alert
+  * Axonius Cybersecurity Asset Management
+* Create an alert/watchlist
+  * Carbon Black Response
+* Upload one or more indicators that you want CrowdStrike to watch
+  * Falcon Host API
+
+
+
+## create annotations
+_1 unique descriptions / Provided by 1 apps_
+
+* Upload annotations to specific scope
+  * Cisco Tetration Analytics
+
+
+
+## create breadcrumbs
+_1 unique descriptions / Provided by 1 apps_
+
+* Prepare the breadcrumb file for installation
+  * Cymmetria MazeRunner
+
+
+
+## create bucket
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a bucket
+  * AWS S3
+
+
+
+## create certificate
+_1 unique descriptions / Provided by 1 apps_
+
+* Enrolls a certificate in Venafi
+  * Venafi
+
+
+
+## create comment
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a comment for an issue on the GitHub repository
+  * GitHub
+
+
+
+## create connection
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a new local or remote connection
+  * Tanium Threat Response
+
+
+
+## create container
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a new container on a Phantom instance
+  * Phantom
+
+
+
+## create device
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a new custom device on the ExtraHop
+  * ExtraHop
+
+
+
+## create event
+_3 unique descriptions / Provided by 3 apps_
+
+* Create (trigger) an event in xMatters
+  * xMatters
+* Create a new event in MISP
+  * MISP
+* Create event based on current container
+  * ThreatQ
+
+
+
+## create export
+_1 unique descriptions / Provided by 1 apps_
+
+* Perform a search based on the provided criteria and create an export for the search ...
+  * Google Vault
+
+
+
+## create filter
+_1 unique descriptions / Provided by 1 apps_
+
+* Creates a new filter on the instance
+  * Ixia Network Packet Broker
+
+
+
+## create folder
+_2 unique descriptions / Provided by 2 apps_
+
+* Create a folder
+  * Microsoft OneDrive
+* Create a new folder
+  * G Suite for Drive
+
+
+
+## create group
+_1 unique descriptions / Provided by 1 apps_
+
+* Create Security Group
+  * NSX
+
+
+
+## create hold
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a hold within the given matter ID
+  * Google Vault
+
+
+
+## create incident
+_3 unique descriptions / Provided by 3 apps_
+
+* Create an incident in ThreatStream
+  * ThreatStream
+* Create an incident on PagerDuty
+  * PagerDuty
+* Create incident on VictorOps
+  * VictorOps
+
+
+
+## create instance
+_1 unique descriptions / Provided by 1 apps_
+
+* Creates an AWS instance from an image id
+  * AWS Community App
+
+
+
+## create ioc
+_1 unique descriptions / Provided by 1 apps_
+
+* Create IOC in ThreatQ
+  * ThreatQ
+
+
+
+## create issue
+_1 unique descriptions / Provided by 1 apps_
+
+* Create an issue for the GitHub repository
+  * GitHub
+
+
+
+## create label
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a new label
+  * Tanium Detect
+
+
+
+## create matter
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a matter with OPEN state
+  * Google Vault
+
+
+
+## create node
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a new node
+  * F5 BIG-IP LTM
+
+
+
+## create object
+_2 unique descriptions / Provided by 2 apps_
+
+* Create a new Salesforce object
+  * Salesforce
+* Create an object
+  * AWS S3
+
+
+
+## create page
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a page in the space
+  * Confluence
+
+
+
+## create payload
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a stager in Empire
+  * Empire
+
+
+
+## create pool
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a new pool
+  * F5 BIG-IP LTM
+
+
+
+## create project
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a new project
+  * Tala
+
+
+
+## create report ioc
+_1 unique descriptions / Provided by 1 apps_
+
+* Add an IOC to a report
+  * Carbon Black ThreatHunter
+
+
+
+## create resource
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a resource
+  * CRITs
+
+
+
+## create server
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a new listener
+  * Empire
+
+
+
+## create sighting
+_1 unique descriptions / Provided by 1 apps_
+
+* Create sighting in EclecticIQ TIP
+  * EclecticIQ app
+
+
+
+## create snapshot
+_1 unique descriptions / Provided by 1 apps_
+
+* Capture a new snapshot
+  * Tanium Threat Response
+
+
+
+## create suppression rule
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a new suppression rule
+  * Tanium Detect
+
+
+
+## create tag
+_2 unique descriptions / Provided by 2 apps_
+
+* Create Security Tag
+  * NSX
+* Create or update a tag
+  * Microsoft Azure Compute
+
+
+
+## create task
+_1 unique descriptions / Provided by 1 apps_
+
+* Create Task
+  * TheHive
+
+
+
+## create ticket
+_13 unique descriptions / Provided by 15 apps_
+
+* Create a Ticket
+  * Zendesk
+* Create a case
+  * ArcSight ESM
+* Create a new Case
+  * Salesforce
+* Create a new case submission
+  * PhishLabs
+* Create a new ticket
+  * RSA Archer
+  * Ivanti ITSM
+* Create a new ticket/record
+  * ServiceNow
+* Create a ticket
+  * Request Tracker
+* Create a ticket (incident)
+  * RemedyForce
+* Create a ticket (issue)
+  * Jira
+  * TheHive
+* Create an incident
+  * Cherwell
+* Create incident
+  * BMC Remedy
+* Create ticket
+  * OTRS
+* Report cyber event
+  * Cyware
+
+
+
+## create trigger
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a new pipeline trigger for a GitLab project
+  * GitLab
+
+
+
+## create vpc
+_1 unique descriptions / Provided by 1 apps_
+
+* Create a VPC with the specified IPv4 CIDR block
+  * AWS EC2
+
+
+
+## deactivate device
+_1 unique descriptions / Provided by 1 apps_
+
+* Deactivate a device
+  * Code42
+
+
+
+## deactivate partition
+_1 unique descriptions / Provided by 1 apps_
+
+* Deactivate a partition
+  * Windows Remote Management
+
+
+
+## deactivate user
+_1 unique descriptions / Provided by 1 apps_
+
+* Deactivate a user
+  * Code42
+
+
+
+## deallocate vm
+_1 unique descriptions / Provided by 1 apps_
+
+* Shut down the virtual machine and release the compute resources. You are not billed for ...
+  * Microsoft Azure Compute
+
+
+
+## deauthorize device
+_1 unique descriptions / Provided by 1 apps_
+
+* Deauthorize a device
+  * Code42
+
+
+
+## decode url
+_1 unique descriptions / Provided by 1 apps_
+
+* Decodes URL that was rewritten by Mimecast for on-click protection
+  * Mimecast
+
+
+
+## deflate item
+_1 unique descriptions / Provided by 1 apps_
+
+* Deflates an item from the vault
+  * Phantom
+
+
+
+## deisolate endpoint
+_1 unique descriptions / Provided by 1 apps_
+
+* Deisolate endpoint after threats are removed
+  * Malwarebytes Cloud
+
+
+
+## delete alert
+_2 unique descriptions / Provided by 2 apps_
+
+* Delete an alert by ID
+  * Tanium Detect
+* Delete an indicator that is being watched
+  * Falcon Host API
+
+
+
+## delete alerts
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete alerts
+  * Axonius Cybersecurity Asset Management
+
+
+
+## delete annotations
+_1 unique descriptions / Provided by 1 apps_
+
+* Clear all annotations of specific scope
+  * Cisco Tetration Analytics
+
+
+
+## delete category
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete API-managed category
+  * Forcepoint Web Security
+
+
+
+## delete connection
+_1 unique descriptions / Provided by 1 apps_
+
+* Deletes connection
+  * Tanium Threat Response
+
+
+
+## delete data
+_2 unique descriptions / Provided by 2 apps_
+
+* Delete documents which match a given filter
+  * MongoDB
+* Perform a REST DELETE call to the server
+  * HTTP
+
+
+
+## delete email
+_1 unique descriptions / Provided by 4 apps_
+
+* Delete emails
+  * Microsoft Exchange On-Premise EWS
+  * EWS for Office 365
+  * MS Graph for Office 365
+  * G Suite for GMail
+
+
+
+## delete file
+_6 unique descriptions / Provided by 6 apps_
+
+* Delete a downloaded file from Tanium Threat Response
+  * Tanium Threat Response
+* Delete a file
+  * G Suite for Drive
+* Delete a file from an endpoint
+  * Symantec ATP
+* Delete a file from the local working directory
+  * Git
+* Delete file
+  * Microsoft OneDrive
+* Run the delete command on the Windows Endpoint
+  * Windows Remote Management
+
+
+
+## delete filter
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove a filter from the instance
+  * Ixia Network Packet Broker
+
+
+
+## delete firewall rule
+_3 unique descriptions / Provided by 3 apps_
+
+* Delete a firewall rule.
+  * Floodlight SDN
+* Delete a firewall rule. Requires root privileges. Not supported on OS X
+  * SSH
+* Remove a firewall rule using netsh
+  * Windows Remote Management
+
+
+
+## delete folder
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete a folder
+  * Microsoft OneDrive
+
+
+
+## delete hold
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete a hold
+  * Google Vault
+
+
+
+## delete incident
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete incident in ThreatStream by ID number
+  * ThreatStream
+
+
+
+## delete indicators
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete indicators based on the key provided
+  * Cybereason
+
+
+
+## delete intel
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete the identified intel document by ID
+  * Tanium Detect
+
+
+
+## delete ioc value
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete IOC value from a report
+  * Carbon Black ThreatHunter
+
+
+
+## delete ip
+_1 unique descriptions / Provided by 1 apps_
+
+* Removes IP from an existing IP set
+  * AWS WAF
+
+
+
+## delete label
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete an existing label by ID. Will fail if label is used in group configurations
+  * Tanium Detect
+
+
+
+## delete local snapshot
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete a local snapshot
+  * Tanium Threat Response
+
+
+
+## delete matter
+_1 unique descriptions / Provided by 1 apps_
+
+* Move a matter to the DELETED state
+  * Google Vault
+
+
+
+## delete node
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete a node
+  * F5 BIG-IP LTM
+
+
+
+## delete notification
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete one notification by ID
+  * Tanium Detect
+
+
+
+## delete object
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete an object
+  * Salesforce
+
+
+
+## delete pcap
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete the specified PCAP
+  * Endace
+
+
+
+## delete policy
+_2 unique descriptions / Provided by 2 apps_
+
+* Delete a policy on CB Defense
+  * Carbon Black Defense
+* Delete an AppLocker policy
+  * Windows Remote Management
+
+
+
+## delete project
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete a project
+  * Tala
+
+
+
+## delete property
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete a property of a host
+  * ForeScout CounterACT
+
+
+
+## delete repo
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete a cloned repository
+  * Git
+
+
+
+## delete report ioc
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove an IOC from a report
+  * Carbon Black ThreatHunter
+
+
+
+## delete rule
+_2 unique descriptions / Provided by 2 apps_
+
+* Delete a rule from a policy on CB Defense
+  * Carbon Black Defense
+* remove a rule from an existing map based on rule id
+  * Gigamon Application for Phantom
+
+
+
+## delete sim
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete a simulation
+  * Verodin
+
+
+
+## delete single feed
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete single feed
+  * Carbon Black ThreatHunter
+
+
+
+## delete snapshot
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete a snapshot
+  * Tanium Threat Response
+
+
+
+## delete source
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete an existing source by ID
+  * Tanium Detect
+
+
+
+## delete static flow
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove a static flow rule.
+  * Floodlight SDN
+
+
+
+## delete suppression rule
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete one suppression rule
+  * Tanium Detect
+
+
+
+## delete target
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete the assessment target
+  * AWS Inspector
+
+
+
+## delete ticket
+_2 unique descriptions / Provided by 2 apps_
+
+* Delete a Case
+  * Salesforce
+* Delete ticket (issue)
+  * Jira
+
+
+
+## delete user
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete user from AWS IAM account
+  * AWS IAM
+
+
+
+## delete vm
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete a VM
+  * Microsoft Azure Compute
+
+
+
+## delete zone
+_1 unique descriptions / Provided by 1 apps_
+
+* Delete a zone
+  * Verodin
+
+
+
+## deploy decoy
+_1 unique descriptions / Provided by 1 apps_
+
+* Bring up a network decoy system
+  * Attivo
+
+
+
+## deploy patch
+_2 unique descriptions / Provided by 2 apps_
+
+* Deploy a patch
+  * BigFix
+* Deploy patch
+  * Microsoft SCCM
+
+
+
+## deregister instance
+_2 unique descriptions / Provided by 2 apps_
+
+* Deregister an instance from AWS Elastic Load Balance
+  * AWS EC2
+* Deregister instance from AWS Elastic Load Balance
+  * AWS Community App 2
+
+
+
+## describe filter
+_1 unique descriptions / Provided by 1 apps_
+
+* Fetches the details of a specified filter
+  * Ixia Network Packet Broker
+
+
+
+## describe group
+_1 unique descriptions / Provided by 1 apps_
+
+* List all policies and users details for the provided group name
+  * Alibaba RAM
+
+
+
+## describe instance
+_3 unique descriptions / Provided by 3 apps_
+
+* Describe one or more instances
+  * AWS EC2
+* Describes one or more of your instances
+  * AWS Community App 2
+* Describes your AWS instance, including the instance&#39;s platform type
+  * AWS Systems Manager
+
+
+
+## describe node
+_1 unique descriptions / Provided by 1 apps_
+
+* Get information about a node
+  * F5 BIG-IP LTM
+
+
+
+## describe server
+_1 unique descriptions / Provided by 1 apps_
+
+* Get information about an upstream server
+  * NGINX
+
+
+
+## describe trails
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve settings for trails associated with the current region and the multi-region trails
+  * AWS CloudTrail
+
+
+
+## describe user
+_1 unique descriptions / Provided by 1 apps_
+
+* Fetch the user details, details of the associated user groups, and user policies
+  * Alibaba RAM
+
+
+
+## detach instance
+_2 unique descriptions / Provided by 2 apps_
+
+* Detach an instance from an autoscaling group
+  * AWS EC2
+* Detaches an instance from an autoscaling group
+  * AWS Community App 2
+
+
+
+## detach policy
+_2 unique descriptions / Provided by 2 apps_
+
+* Detach a policy from the provided user, group, or role
+  * Alibaba RAM
+* Detach managed policy from a role
+  * AWS IAM
+
+
+
+## detonate file
+_17 unique descriptions / Provided by 21 apps_
+
+* Analyze the file in the A1000 Advanced Malware Analysis Appliance and retrieve the analysis results
+  * RL A1000
+* Analyze the file in the TISCALE Advanced Malware Analysis Appliance and retrieve the analysis results
+  * RL TitaniumScale Enterprise File Visibility
+* Detonate file in ThreatStream
+  * ThreatStream
+* Detonate file in the VMRay Analyzer
+  * VMRay
+* Detonate the file in the Falcon Sandbox
+  * Falcon Sandbox
+* Retrieve detonation analysis results for file
+  * Joe Sandbox v2
+* Run file in Symantec CAS sandbox and retrieve analysis results
+  * Symantec CAS
+* Run the file in the Cyphort sandbox and retrieve the analysis results.
+  * Cyphort
+* Run the file in the FireEye sandbox and retrieve the analysis results.
+  * FireEye
+* Run the file in the Lastline sandbox and retrieve the analysis results
+  * Lastline
+* Run the file in the Malware Analysis Service instance and, if possible, retrieve the analysis ...
+  * Malware Analysis Service
+* Run the file in the Threat Grid sandbox and retrieve the analysis results
+  * Threat Grid
+* Run the file in the WildFire sandbox and retrieve the analysis results.
+  * WildFire
+* Run the file in the sandbox and retrieve part of the analysis results.
+  * Malwr
+* Run the file in the sandbox and retrieve the analysis results
+  * DarkPoint
+  * Intezer Analyze
+  * Cuckoo
+  * Koodous
+  * McAfee Advanced Threat Defense (ATD)
+* Upload a file to Polyswarm and retrieve analysis results
+  * PolySwarm
+* Upload a file to Virus Total and retrieve the analysis results
+  * VirusTotal
+
+
+
+## detonate online file
+_1 unique descriptions / Provided by 1 apps_
+
+* Detonate an online file in the Falcon Sandbox
+  * Falcon Sandbox
+
+
+
+## detonate url
+_13 unique descriptions / Provided by 13 apps_
+
+* Detonate URL in ThreatStream
+  * ThreatStream
+* Detonate a URL at urlscan.io
+  * urlscan.io
+* Detonate a URL in the Falcon Sandbox
+  * Falcon Sandbox
+* Detonate a url in the VMRay Analyzer
+  * VMRay
+* Load a URL in the Cuckoo sandbox and retrieve the analysis results
+  * Cuckoo
+* Load a URL in the FireEye sandbox and retrieve the analysis results.
+  * FireEye
+* Load a URL in the Lastline sandbox and retrieve the analysis results
+  * Lastline
+* Load a URL in the Threat Grid sandbox and retrieve the analysis results
+  * Threat Grid
+* Load a URL to Polyswarm and retrieve analysis results
+  * PolySwarm
+* Load a URL to Virus Total and retrieve analysis results
+  * VirusTotal
+* Retrieve detonation analysis results for URL
+  * Joe Sandbox v2
+* Send a URL to DarkPoint and retrieve the analysis results
+  * DarkPoint
+* URL link is processed inside analyzer VM and retrieve the analysis results
+  * McAfee Advanced Threat Defense (ATD)
+
+
+
+## disable acct
+_1 unique descriptions / Provided by 1 apps_
+
+* Disables an AWS IAM user account
+  * AWS Community App
+
+
+
+## disable firewall
+_1 unique descriptions / Provided by 1 apps_
+
+* Disable the firewall.
+  * Floodlight SDN
+
+
+
+## disable instance termination
+_1 unique descriptions / Provided by 1 apps_
+
+* Disable the instance from being terminated via API
+  * AWS Community App 2
+
+
+
+## disable node
+_1 unique descriptions / Provided by 1 apps_
+
+* Disable a node
+  * F5 BIG-IP LTM
+
+
+
+## disable server
+_1 unique descriptions / Provided by 1 apps_
+
+* Disable a server
+  * NGINX
+
+
+
+## disable tokens
+_1 unique descriptions / Provided by 1 apps_
+
+* Invalidate all active refresh tokens for a user in an Azure AD environment
+  * Azure AD Graph
+
+
+
+## disable user
+_3 unique descriptions / Provided by 4 apps_
+
+* Disable a user
+  * Azure AD Graph
+* Disable login profile and access keys of a user
+  * AWS IAM
+* Disables the specified user
+  * Okta
+  * LDAP
+
+
+
+## disallow url
+_1 unique descriptions / Provided by 1 apps_
+
+* Disallow an URL
+  * Blue Coat
+
+
+
+## domain category
+_1 unique descriptions / Provided by 1 apps_
+
+* Returns tags for a given domain
+  * SecurityTrails
+
+
+
+## domain dns history
+_1 unique descriptions / Provided by 1 apps_
+
+* Find IP addresses this domain has resolved to
+  * ZETAlytics
+
+
+
+## domain history
+_1 unique descriptions / Provided by 1 apps_
+
+* Lists out specific historical information about the given domain parameter
+  * SecurityTrails
+
+
+
+## domain intelligence
+_1 unique descriptions / Provided by 1 apps_
+
+* Get threat intelligence for a domain
+  * Recorded Future
+
+
+
+## domain reputation
+_17 unique descriptions / Provided by 20 apps_
+
+* Checks Domain against CriticalStack Domain lists
+  * CriticalStack Intel
+* Determine the reputation of a domain
+  * Safe Browsing
+* Evaluates the risk of a given domain
+  * DomainTools Iris
+  * DomainTools
+* Get a quick indicator of the risk associated with a domain
+  * Recorded Future
+* Get attributes, related indicators, and related adversaries
+  * ThreatQ
+* Get domain info/reputation
+  * PassiveTotal
+* Get domain reputation
+  * DeepSight
+* Get information about a given domain
+  * ThreatStream
+* Looks up information about domains in Kaspersky Threat Intelligence Portal
+  * Kaspersky Threat Intelligence
+* Queries Polyswarm for Domain reputation info
+  * PolySwarm
+* Queries URLVoid for domain info.
+  * URLVoid
+* Queries VirusTotal for domain info
+  * VirusTotal
+* Queries domain info
+  * EclecticIQ app
+  * ZETAlytics
+  * APIvoid
+* Queries for domain reputation information
+  * AlienVault OTX
+* Query OpenDNS for domain info
+  * OpenDNS Investigate
+* Query for domain reputation
+  * Malware Domain List
+* Returns domain reputation report
+  * IBM XForce
+
+
+
+## domain searcher
+_1 unique descriptions / Provided by 1 apps_
+
+* Filter and search specific records using this endpoint
+  * SecurityTrails
+
+
+
+## domain subdomain
+_1 unique descriptions / Provided by 1 apps_
+
+* Returns subdomains for a given domain
+  * SecurityTrails
+
+
+
+## download html
+_1 unique descriptions / Provided by 1 apps_
+
+* Download webpage HTML against a previous URL Scan request
+  * SlashNext Phishing Incident Response
+
+
+
+## download screenshot
+_1 unique descriptions / Provided by 1 apps_
+
+* Download webpage screenshot against a previous URL Scan request
+  * SlashNext Phishing Incident Response
+
+
+
+## download text
+_1 unique descriptions / Provided by 1 apps_
+
+* Download webpage text against a previous URL Scan request
+  * SlashNext Phishing Incident Response
+
+
+
+## email reputation
+_3 unique descriptions / Provided by 3 apps_
+
+* Get attributes, related indicators, and related adversaries
+  * ThreatQ
+* Get information about a given email
+  * ThreatStream
+* Queries email info
+  * EclecticIQ app
+
+
+
+## enable access
+_1 unique descriptions / Provided by 1 apps_
+
+* Enable EC2 Access for a given IAM user
+  * AWS Community App
+
+
+
+## enable acct
+_1 unique descriptions / Provided by 1 apps_
+
+* Enables an AWS IAM user account
+  * AWS Community App
+
+
+
+## enable firewall
+_1 unique descriptions / Provided by 1 apps_
+
+* Enable the firewall.
+  * Floodlight SDN
+
+
+
+## enable node
+_1 unique descriptions / Provided by 1 apps_
+
+* Enable a node
+  * F5 BIG-IP LTM
+
+
+
+## enable server
+_1 unique descriptions / Provided by 1 apps_
+
+* Enable a server
+  * NGINX
+
+
+
+## enable sg access
+_1 unique descriptions / Provided by 1 apps_
+
+* Enable Security Group Access for a given IAM user
+  * AWS Community App
+
+
+
+## enable user
+_3 unique descriptions / Provided by 4 apps_
+
+* Enable a user
+  * Azure AD Graph
+* Enable login profile and access keys of a user
+  * AWS IAM
+* Enables the specified user
+  * Okta
+  * LDAP
+
+
+
+## execute action
+_3 unique descriptions / Provided by 3 apps_
+
+* Execute Tanium action (package)
+  * Tanium
+* Execute an action on a list of entities
+  * Axonius Cybersecurity Asset Management
+* Execute an action on the Tanium server
+  * Tanium REST
+
+
+
+## execute module
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute a module or run a shell command in Empire
+  * Empire
+
+
+
+## execute program
+_3 unique descriptions / Provided by 3 apps_
+
+* Execute a process
+  * Carbon Black Response
+* Executes a program on the remote machine
+  * SSH
+* Runs shell script command on a managed instance
+  * AWS Systems Manager
+
+
+
+## export container
+_1 unique descriptions / Provided by 1 apps_
+
+* Export local container to the configured Phantom asset
+  * Phantom
+
+
+
+## extract email
+_1 unique descriptions / Provided by 1 apps_
+
+* Extract email data from Outlook MSG files
+  * MSG File Parser
+
+
+
+## extract ioc
+_1 unique descriptions / Provided by 1 apps_
+
+* Create IOC artifacts from a file in the vault or raw text
+  * Parser
+
+
+
+## file intelligence
+_1 unique descriptions / Provided by 1 apps_
+
+* Get threat intelligence for a file identified by its hash
+  * Recorded Future
+
+
+
+## file reputation
+_16 unique descriptions / Provided by 18 apps_
+
+* Checks file against CriticalStack file hashes
+  * CriticalStack Intel
+* Get a quick indicator of the risk associated with a file identified by its hash
+  * Recorded Future
+* Get attributes, related indicators, and related adversaries
+  * ThreatQ
+* Get file reputation
+  * DeepSight
+* Get information about a file
+  * ThreatStream
+* Gets information about a hash
+  * Cymon
+  * Metadefender
+* Looks up information about hashes in Kaspersky Threat Intelligence Portal
+  * Kaspersky Threat Intelligence
+* Queries Polyswarm for file reputation info
+  * PolySwarm
+* Queries ReversingLabs for file info
+  * ReversingLabs
+* Queries ReversingLabs for file reputation info
+  * RL TitaniumCloud File Reputation
+* Queries ThreatCrowd for file reputation
+  * ThreatCrowd
+* Queries VirusTotal for file reputation info
+  * VirusTotal
+* Queries for file info
+  * Intezer Analyze
+  * EclecticIQ app
+* Queries for file reputation information
+  * AlienVault OTX
+* Query Joe Sandbox for file reputation
+  * Joe Sandbox v2
+* Returns malware report for a given hash.
+  * IBM XForce
+
+
+
+## find artifacts
+_1 unique descriptions / Provided by 1 apps_
+
+* Find artifacts containing a CEF value
+  * Phantom
+
+
+
+## find listitem
+_1 unique descriptions / Provided by 1 apps_
+
+* Find value in a custom list
+  * Phantom
+
+
+
+## find malware
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute the malfind volatility plugin to find injected code/dlls in user mode memory
+  * Volatility
+
+
+
+## find member
+_1 unique descriptions / Provided by 1 apps_
+
+* Finds a member of a specified Mimecast group
+  * Mimecast
+
+
+
+## generalize vm
+_1 unique descriptions / Provided by 1 apps_
+
+* Set the state of the virtual machine to be generalized
+  * Microsoft Azure Compute
+
+
+
+## generate token
+_1 unique descriptions / Provided by 2 apps_
+
+* Generates a token
+  * Microsoft Azure Compute
+  * MS Graph for Office 365
+
+
+
+## geolocate domain
+_1 unique descriptions / Provided by 2 apps_
+
+* Geolocate a domain
+  * HackerTarget
+  * ipstack
+
+
+
+## geolocate ip
+_4 unique descriptions / Provided by 4 apps_
+
+* Geolocate an ip
+  * HackerTarget
+* Queries MaxMind for IP location info
+  * MaxMind
+* Queries Service for IP location info
+  * ipstack
+* Queries service for IP location info
+  * IP Info
+
+
+
+## get acls
+_1 unique descriptions / Provided by 1 apps_
+
+* Get one or more network ACLs
+  * AWS EC2
+
+
+
+## get acquisition status
+_1 unique descriptions / Provided by 1 apps_
+
+* Get status of file acquisition
+  * FireEye HX
+
+
+
+## get action result
+_1 unique descriptions / Provided by 1 apps_
+
+* Find the results of a presviously run action
+  * Phantom
+
+
+
+## get admin consent
+_1 unique descriptions / Provided by 1 apps_
+
+* Get admin consent
+  * Microsoft Teams
+
+
+
+## get alarm
+_1 unique descriptions / Provided by 1 apps_
+
+* Get an alarm
+  * LogRhythm SIEM
+
+
+
+## get alert
+_4 unique descriptions / Provided by 4 apps_
+
+* Get information about an alert
+  * Carbon Black Defense
+* Get the full definition of one or more indicators that are being watched
+  * Falcon Host API
+* Retrieve a specific alert from the alerts database.
+  * FireEye
+* Show a single alert by ID
+  * Tanium Detect
+
+
+
+## get alert count
+_1 unique descriptions / Provided by 1 apps_
+
+* List alert counts for the last N days, in UTC by default
+  * Tanium Detect
+
+
+
+## get alerts
+_1 unique descriptions / Provided by 1 apps_
+
+* Get configured alerts
+  * Axonius Cybersecurity Asset Management
+
+
+
+## get all feeds
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a list of feeds available
+  * Carbon Black ThreatHunter
+
+
+
+## get attachment
+_1 unique descriptions / Provided by 1 apps_
+
+* Download attachment to vault
+  * Request Tracker
+
+
+
+## get attachments
+_1 unique descriptions / Provided by 1 apps_
+
+* List all of the attachments on a given incident
+  * Cherwell
+
+
+
+## get attributes
+_1 unique descriptions / Provided by 1 apps_
+
+* Get attributes for a specific event
+  * MISP
+
+
+
+## get browser cache
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve matching regex in a client&#39;s browser cache
+  * GRR Rapid Response
+
+
+
+## get browser history
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute the iehistory volatility plugin
+  * Volatility
+
+
+
+## get bucket
+_1 unique descriptions / Provided by 1 apps_
+
+* Get information about a bucket
+  * AWS S3
+
+
+
+## get campaign
+_1 unique descriptions / Provided by 1 apps_
+
+* Fetch detailed information for a given campaign
+  * Proofpoint TAP
+
+
+
+## get campaign data
+_1 unique descriptions / Provided by 1 apps_
+
+* Fetch detailed information for a given campaign (deprecated)
+  * Proofpoint TAP
+
+
+
+## get category
+_1 unique descriptions / Provided by 1 apps_
+
+* Return the category list contents
+  * Forcepoint Web Security
+
+
+
+## get cert info
+_1 unique descriptions / Provided by 1 apps_
+
+* Queries certification info
+  * APIvoid
+
+
+
+## get certificate
+_1 unique descriptions / Provided by 1 apps_
+
+* Downloads specified certificate to the vault
+  * Venafi
+
+
+
+## get children process tree
+_1 unique descriptions / Provided by 1 apps_
+
+* Get children process tree for a process instance
+  * Tanium Threat Response
+
+
+
+## get command history
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute the cmdscan volatility plugin
+  * Volatility
+
+
+
+## get config
+_4 unique descriptions / Provided by 5 apps_
+
+* Get Corelight full configuration
+  * Corelight
+* Gets the current running config of the device.
+  * Cisco Catalyst
+  * Cisco ASA
+* Return the list of brands and case types currently configured in PhishLabs
+  * PhishLabs
+* Returns the list of indices and types currently configured on the ElasticSearch instance
+  * Elasticsearch
+
+
+
+## get connection
+_1 unique descriptions / Provided by 1 apps_
+
+* Gets connection information
+  * Tanium Threat Response
+
+
+
+## get cookbook
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a cookbook and add it to vault
+  * Joe Sandbox v2
+
+
+
+## get counts group
+_1 unique descriptions / Provided by 1 apps_
+
+* List alert counts grouped by computer name or intel id
+  * Tanium Detect
+
+
+
+## get credentials
+_1 unique descriptions / Provided by 1 apps_
+
+* Get compromised credentials stored in Empire
+  * Empire
+
+
+
+## get cron jobs
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve available cron jobs
+  * GRR Rapid Response
+
+
+
+## get data
+_3 unique descriptions / Provided by 3 apps_
+
+* Download, parse and save a paste from PasteBin
+  * PasteBin
+* Get data from the database
+  * MongoDB
+* Perform a REST GET call to the server
+  * HTTP
+
+
+
+## get detailed info
+_1 unique descriptions / Provided by 1 apps_
+
+* Queries detailed information about indicator
+  * Kaspersky Threat Intelligence
+
+
+
+## get detections
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve detections
+  * Vectra Active Enforcement
+
+
+
+## get device by id
+_1 unique descriptions / Provided by 1 apps_
+
+* Get device by ID
+  * Axonius Cybersecurity Asset Management
+
+
+
+## get device group
+_1 unique descriptions / Provided by 1 apps_
+
+* List endpoints in a host set
+  * FireEye HX
+
+
+
+## get device importance
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the importance value of a device
+  * Interset AI
+
+
+
+## get device info
+_5 unique descriptions / Provided by 5 apps_
+
+* Get device details from ExtraHop
+  * ExtraHop
+* Get information about a device given its connector GUID
+  * FireAMP
+* Get information about an endpoint
+  * McAfee ePO
+* Get information about device
+  * Microsoft SCOM
+* Get the properties of a host
+  * ForeScout CounterACT
+
+
+
+## get device risk
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a device&#39;s risk value as determined by Interset analytics
+  * Interset AI
+
+
+
+## get devices
+_2 unique descriptions / Provided by 2 apps_
+
+* Get a list of newly discovered devices
+  * ExtraHop
+* Query devices
+  * Axonius Cybersecurity Asset Management
+
+
+
+## get disk usage
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve disk usage from endpoint
+  * SSH
+
+
+
+## get email
+_5 unique descriptions / Provided by 7 apps_
+
+* Downloads the raw email attachment for the report that matches the specified report ID
+  * Cofense Triage
+* Get an email from the server
+  * Microsoft Exchange On-Premise EWS
+  * EWS for Office 365
+  * MS Graph for Office 365
+* Get an email from the server or container
+  * IMAP
+* Retrieves the associated abuse e-mail
+  * RIPE
+* Returns message information for a tracked message
+  * Mimecast
+
+
+
+## get endpoint info
+_1 unique descriptions / Provided by 2 apps_
+
+* Get information about an endpoint
+  * Malwarebytes Cloud
+  * SentinelOne
+
+
+
+## get entities
+_1 unique descriptions / Provided by 1 apps_
+
+* Get high-level Entity information
+  * ThreatX
+
+
+
+## get entity ips
+_1 unique descriptions / Provided by 1 apps_
+
+* Get all Entity IP addresses
+  * ThreatX
+
+
+
+## get entity notes
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the Entity notes
+  * ThreatX
+
+
+
+## get entity risk
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the latest Entity risk score
+  * ThreatX
+
+
+
+## get event
+_3 unique descriptions / Provided by 3 apps_
+
+* Get information about a single event
+  * xMatters
+* Get information about an event
+  * Carbon Black Defense
+* Run a search query to get event on the Starlight installation based on the on_poll ...
+  * Aella Data Starlight
+
+
+
+## get events
+_4 unique descriptions / Provided by 4 apps_
+
+* Build a query to get events of a certain type from a connection
+  * Tanium Threat Response
+* Get an alarm&#39;s events
+  * LogRhythm SIEM
+* Get events belonging to an offense
+  * QRadar
+* Pull Attivo events based on source IP and timeframe
+  * Attivo
+
+
+
+## get events summary
+_1 unique descriptions / Provided by 1 apps_
+
+* Return counts of each type of event
+  * Tanium Threat Response
+
+
+
+## get export
+_1 unique descriptions / Provided by 1 apps_
+
+* Get information of an export from the given matter ID
+  * Google Vault
+
+
+
+## get feed reports
+_1 unique descriptions / Provided by 1 apps_
+
+* Get reports for a single feed
+  * Carbon Black ThreatHunter
+
+
+
+## get file
+_19 unique descriptions / Provided by 20 apps_
+
+* Copy a file from the Windows Endpoint to the Vault
+  * Windows Remote Management
+* Download a file and add it to the vault
+  * Carbon Black ThreatHunter
+* Download a file from Carbon Black Response and add it to the vault
+  * Carbon Black Response
+* Download a file from Tanium Threat Response to the Phantom Vault
+  * Tanium Threat Response
+* Download a file from server and add it to the vault
+  * Microsoft OneDrive
+* Download a file from the VMRay Analyzer and add it to the vault
+  * VMRay
+* Download a file to the vault
+  * Cylance
+  * CylancePROTECT
+* Download a quarantined file and upload it to the vault
+  * Netskope
+* Download a sample from WildFire and add it to the vault.
+  * WildFire
+* Download sample result data from Falcon Sandbox and add it to vault
+  * Falcon Sandbox
+* Downloads a file from Polyswarm and adds it to the vault
+  * PolySwarm
+* Downloads a file from VirusTotal, and adds it to the vault
+  * VirusTotal
+* Downloads and vault the attachment that matches the specified attachment ID
+  * Cofense Triage
+* Get information about a file or download it to the Vault
+  * G Suite for Drive
+* Get the file associated with a hash
+  * MalShare
+* Pull the acquired file into Phantom Vault
+  * FireEye HX
+* Retrieve a file from an AWS instance and save it to the vault
+  * AWS Systems Manager
+* Retrieve a file from endpoint and save it to the vault
+  * SSH
+* Retrieves a file from a SharePoint Site
+  * SharePoint
+
+
+
+## get file from url
+_1 unique descriptions / Provided by 1 apps_
+
+* Download file from a url
+  * Falcon Sandbox
+
+
+
+## get file importance
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the importance value of a file
+  * Interset AI
+
+
+
+## get file info
+_4 unique descriptions / Provided by 5 apps_
+
+* Get info about a file from Carbon Black Response
+  * Carbon Black Response
+* Get information about a file
+  * Cylance
+  * CylancePROTECT
+* Get the file details associated with a hash
+  * MalShare
+* Look for files matching given criteria
+  * GRR Rapid Response
+
+
+
+## get file metadata
+_1 unique descriptions / Provided by 1 apps_
+
+* Get metadata of a file
+  * Carbon Black ThreatHunter
+
+
+
+## get file risk
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a file&#39;s risk value as determined by Interset analytics
+  * Interset AI
+
+
+
+## get findings
+_2 unique descriptions / Provided by 2 apps_
+
+* List and describe the findings generated by the assessment runs
+  * AWS Inspector
+* Lists and describes Security Hub aggregated findings that are specified by a single filter attribute
+  * AWS Security Hub
+
+
+
+## get firewall status
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the enable/disable state of the firewall.
+  * Floodlight SDN
+
+
+
+## get flows
+_2 unique descriptions / Provided by 2 apps_
+
+* Get flow information
+  * Cisco Tetration Analytics
+* Get flows that make up an offense for a particular IP
+  * QRadar
+
+
+
+## get forensic
+_1 unique descriptions / Provided by 1 apps_
+
+* Fetch forensic information for a given threat or campaign
+  * Proofpoint TAP
+
+
+
+## get forensic data
+_1 unique descriptions / Provided by 1 apps_
+
+* Fetch forensic information for a given threat or campaign (deprecated)
+  * Proofpoint TAP
+
+
+
+## get global list
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the global list
+  * CylancePROTECT
+
+
+
+## get group
+_1 unique descriptions / Provided by 2 apps_
+
+* Get information about a group
+  * Okta
+  * Azure AD Graph
+
+
+
+## get headers
+_2 unique descriptions / Provided by 2 apps_
+
+* Get HTTP Headers from a URL
+  * HackerTarget
+* Perform a REST HEAD call to the server
+  * HTTP
+
+
+
+## get host
+_1 unique descriptions / Provided by 1 apps_
+
+* Get Bigfix ID
+  * BigFix
+
+
+
+## get host events
+_1 unique descriptions / Provided by 1 apps_
+
+* Get events pertaining to a host that have occurred in the last &#39;N&#39; days
+  * Splunk
+
+
+
+## get host risk
+_1 unique descriptions / Provided by 1 apps_
+
+* Action to retrieve the latest risk score for a host
+  * Risk Fabric
+
+
+
+## get hunts
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve available hunts
+  * GRR Rapid Response
+
+
+
+## get importance
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the importance value of an entity
+  * Interset AI
+
+
+
+## get incident
+_2 unique descriptions / Provided by 2 apps_
+
+* Get incident in ThreatStream by ID number
+  * ThreatStream
+* Get information about an incident
+  * Preempt
+
+
+
+## get indicators
+_1 unique descriptions / Provided by 1 apps_
+
+* Get all indicators from Cybereason
+  * Cybereason
+
+
+
+## get info
+_1 unique descriptions / Provided by 1 apps_
+
+* Get information of a specific sample
+  * VMRay
+
+
+
+## get intel
+_1 unique descriptions / Provided by 1 apps_
+
+* Show a single Intel Document by ID
+  * Tanium Detect
+
+
+
+## get ioc
+_1 unique descriptions / Provided by 1 apps_
+
+* Get IOC
+  * NetWitness Endpoint
+
+
+
+## get ip availability
+_1 unique descriptions / Provided by 1 apps_
+
+* Check if a private IP address is available for use
+  * Microsoft Azure Compute
+
+
+
+## get ip risk
+_1 unique descriptions / Provided by 1 apps_
+
+* Action to retrieve the latest risk score for an IP address
+  * Risk Fabric
+
+
+
+## get issue
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve an issue for the GitHub repository
+  * GitHub
+
+
+
+## get job
+_1 unique descriptions / Provided by 1 apps_
+
+* Get information about job(s)
+  * Verodin
+
+
+
+## get job actions
+_1 unique descriptions / Provided by 1 apps_
+
+* Get job actions
+  * Verodin
+
+
+
+## get label
+_1 unique descriptions / Provided by 1 apps_
+
+* Request a single label by ID
+  * Tanium Detect
+
+
+
+## get language
+_1 unique descriptions / Provided by 1 apps_
+
+* Identifies the language of a given body of text
+  * Watson - Language Translator
+
+
+
+## get license
+_1 unique descriptions / Provided by 1 apps_
+
+* Gets the license information of the device
+  * Carbon Black Response
+
+
+
+## get links
+_1 unique descriptions / Provided by 1 apps_
+
+* Get HTTP Links from a URL
+  * HackerTarget
+
+
+
+## get list
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieves a list from a SharePoint Site
+  * SharePoint
+
+
+
+## get log
+_1 unique descriptions / Provided by 1 apps_
+
+* Download a log capture file from Netwitness Logs and Packets and add it to the ...
+  * NetWitness Logs and Packets
+
+
+
+## get malops
+_1 unique descriptions / Provided by 1 apps_
+
+* Get and filter malops from Cybereason
+  * Cybereason
+
+
+
+## get map
+_2 unique descriptions / Provided by 2 apps_
+
+* Get topology map
+  * Verodin
+* get a list of map rules for a specific map
+  * Gigamon Application for Phantom
+
+
+
+## get maps
+_1 unique descriptions / Provided by 1 apps_
+
+* get a list of maps for a specific cluster id
+  * Gigamon Application for Phantom
+
+
+
+## get matter
+_1 unique descriptions / Provided by 1 apps_
+
+* Fetch information for the given matter ID
+  * Google Vault
+
+
+
+## get memory usage
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve memory usage from endpoint
+  * SSH
+
+
+
+## get module
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a module by name in Empire
+  * Empire
+
+
+
+## get node stats
+_1 unique descriptions / Provided by 1 apps_
+
+* Get stats of the node
+  * F5 BIG-IP LTM
+
+
+
+## get nodes
+_1 unique descriptions / Provided by 1 apps_
+
+* Get node topology
+  * Verodin
+
+
+
+## get notification
+_1 unique descriptions / Provided by 1 apps_
+
+* Show a single notification by ID
+  * Tanium Detect
+
+
+
+## get notification count
+_1 unique descriptions / Provided by 1 apps_
+
+* List notification counts for the last N days in UTC by default
+  * Tanium Detect
+
+
+
+## get notifications
+_1 unique descriptions / Provided by 1 apps_
+
+* Get notfications from CB Defense
+  * Carbon Black Defense
+
+
+
+## get object
+_2 unique descriptions / Provided by 2 apps_
+
+* Get info about a Salesforce object
+  * Salesforce
+* Get information about an object
+  * AWS S3
+
+
+
+## get observable
+_1 unique descriptions / Provided by 1 apps_
+
+* Get observable present in ThreatStream by ID number
+  * ThreatStream
+
+
+
+## get oncall
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the current on call personnel (DEPRECATED)
+  * PagerDuty
+
+
+
+## get oncall user
+_1 unique descriptions / Provided by 1 apps_
+
+* Get list of users for a specific escalation policy
+  * PagerDuty
+
+
+
+## get options
+_1 unique descriptions / Provided by 1 apps_
+
+* Perform a REST OPTIONS call to the server
+  * HTTP
+
+
+
+## get package
+_1 unique descriptions / Provided by 1 apps_
+
+* Get information about a package
+  * CloudPassage Halo
+
+
+
+## get page
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a page by name
+  * Confluence
+
+
+
+## get parameter
+_1 unique descriptions / Provided by 1 apps_
+
+* Get information about a parameter by using the parameter name
+  * AWS Systems Manager
+
+
+
+## get parent process tree
+_1 unique descriptions / Provided by 1 apps_
+
+* Get parent process tree for a process instance
+  * Tanium Threat Response
+
+
+
+## get payload
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a stager by name
+  * Empire
+
+
+
+## get pcap
+_9 unique descriptions / Provided by 9 apps_
+
+* Download a PCAP into the vault
+  * Endace
+* Download a packet capture file from Netwitness Logs and Packets and add it to the ...
+  * NetWitness Logs and Packets
+* Download pcap file of a sample submitted to the sandbox and add it to vault
+  * ThreatStream
+* Download pcap for an event or observation
+  * ProtectWise
+* Download the pcap file and add it to the vault
+  * Joe Sandbox v2
+* Download the pcap file from server and add it to the vault
+  * Moloch
+* Download the pcap file of a sample from WildFire and add it to the vault.
+  * WildFire
+* Download the pcap file of sample from Falcon Sandbox and add it to vault
+  * Falcon Sandbox
+* Queries to return specific network traffic information
+  * Symantec Security Analytics
+
+
+
+## get peers
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a list of peers that a device communicated with in the last N minutes
+  * ExtraHop
+
+
+
+## get policy
+_2 unique descriptions / Provided by 2 apps_
+
+* Download an AIM policy bundle and import it to the vault
+  * Tala
+* Get Symantec Management Center policy
+  * Symantec Management Center
+
+
+
+## get process
+_2 unique descriptions / Provided by 2 apps_
+
+* Get information about a process
+  * CloudPassage Halo
+* Get information for a process
+  * Tanium Threat Response
+
+
+
+## get process detail
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve the details of a process that is running or that previously ran, given a ...
+  * Falcon Host API
+
+
+
+## get process file
+_1 unique descriptions / Provided by 1 apps_
+
+* Extracts the process file from the memory dump
+  * Volatility
+
+
+
+## get process timeline
+_1 unique descriptions / Provided by 1 apps_
+
+* Get process timeline
+  * Tanium Threat Response
+
+
+
+## get process tree
+_1 unique descriptions / Provided by 1 apps_
+
+* Get process tree for a process instance
+  * Tanium Threat Response
+
+
+
+## get project
+_1 unique descriptions / Provided by 1 apps_
+
+* Get information about a project
+  * Tala
+
+
+
+## get project importance
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the importance value of a project
+  * Interset AI
+
+
+
+## get project risk
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a project&#39;s risk value as determined by Interset analytics
+  * Interset AI
+
+
+
+## get protocols
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a list of protocols that a device communicated in the last N minutes
+  * ExtraHop
+
+
+
+## get quarantine status
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the containment status for an endpoint
+  * FireEye HX
+
+
+
+## get registry hives
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute the hivelist volatility plugin to get a list of registry hives
+  * Volatility
+
+
+
+## get registry key
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute the printkey volatility plugin
+  * Volatility
+
+
+
+## get related findings
+_1 unique descriptions / Provided by 1 apps_
+
+* Lists Security Hub aggregated findings that are specified by filter attributes
+  * AWS Security Hub
+
+
+
+## get related iocs
+_1 unique descriptions / Provided by 1 apps_
+
+* Query ThreatQ for related IOCs
+  * ThreatQ
+
+
+
+## get report
+_22 unique descriptions / Provided by 27 apps_
+
+* Download the detonation report and add it to the vault
+  * Joe Sandbox v2
+* Fetch results of an already completed analysis in the Falcon Sandbox
+  * Falcon Sandbox
+* Fetch sandbox report for provided md5 file hash
+  * Zscaler
+* Get A1000 report for file
+  * RL A1000
+* Get further details about an AutoFocus tag
+  * AutoFocus
+* Get report details
+  * TruSTAR
+  * DeepSight
+* Get report details.
+  * iSight Partners
+* Get the report(s) for a submission
+  * VMRay
+* Get the results using the scan id from a detonate file or detonate url action
+  * VirusTotal
+* Get threat details
+  * Cofense Intelligence
+* Lookup results from UUID
+  * PolySwarm
+* Query for results of an already completed analysis in FireEye.
+  * FireEye
+* Query for results of an already completed detonation
+  * DarkPoint
+  * Intezer Analyze
+  * Cuckoo
+  * Koodous
+  * urlscan.io
+* Query for results of an already completed detonation in WildFire.
+  * WildFire
+* Query for results of an already completed task in Cyphort.
+  * Cyphort
+* Query for results of an already completed task in Lastline
+  * Lastline
+* Query for results of an already completed task in Threat Grid
+  * Threat Grid
+* Query for status of a submitted detonation task in Malwr.
+  * Malwr
+* Retrieve a single report that matches the specified report ID. Optionally ingest to a provided ...
+  * Cofense Triage
+* Retrieve detonation report present in Threatstream
+  * ThreatStream
+* Retrieve statistical reports from ESA
+  * Cisco ESA
+* Retrieve the analysis results of a file detonation
+  * Malware Analysis Service
+
+
+
+## get reporter
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve reporter that matches the specified reporter ID
+  * Cofense Triage
+
+
+
+## get reporters
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieves information about reporters, such as their email address and credit score, whether they are ...
+  * Cofense Triage
+
+
+
+## get reports
+_2 unique descriptions / Provided by 2 apps_
+
+* Requests APT reports by using the Kaspersky Threat Intelligence Portal API
+  * Kaspersky Threat Intelligence
+* Retrieve all reports in the Inbox, Recon, and Processed folders that match specified parameters
+  * Cofense Triage
+
+
+
+## get resource
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a specific resource from CRITs
+  * CRITs
+
+
+
+## get response
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the response to a previously asked question
+  * Slack
+
+
+
+## get results
+_4 unique descriptions / Provided by 4 apps_
+
+* Get results from a job started with &#39;run query&#39;
+  * Big Query
+* Get results from most recent agent command
+  * Empire
+* Get the abstract information model (AIM) representation of the latest scan on a project
+  * Tala
+* Retrieves the result of a search job
+  * Sumo Logic
+
+
+
+## get risk
+_1 unique descriptions / Provided by 1 apps_
+
+* Get an entity&#39;s risk value as determined by Interset analytics
+  * Interset AI
+
+
+
+## get rule info
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve QRadar rule information
+  * QRadar
+
+
+
+## get scan data
+_1 unique descriptions / Provided by 1 apps_
+
+* Get scan data of an endpoint
+  * NetWitness Endpoint
+
+
+
+## get scan info
+_1 unique descriptions / Provided by 1 apps_
+
+* Get information about a scan job
+  * Malwarebytes Cloud
+
+
+
+## get scan settings
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve the settings related to scanning a project
+  * Tala
+
+
+
+## get scored hosts
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve hosts based on a minimum certainty and threat score
+  * Vectra Active Enforcement
+
+
+
+## get screenshot
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a screenshot of a url
+  * Screenshot Machine
+
+
+
+## get server
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a listener by name
+  * Empire
+
+
+
+## get server options
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a list of options for a specified listener type
+  * Empire
+
+
+
+## get sessions
+_1 unique descriptions / Provided by 1 apps_
+
+* Get active sessions in CounterACT
+  * ForeScout CounterACT
+
+
+
+## get signature details
+_1 unique descriptions / Provided by 1 apps_
+
+* Get detailed information about a signature
+  * FireSIGHT
+
+
+
+## get sim
+_1 unique descriptions / Provided by 1 apps_
+
+* Get simulation
+  * Verodin
+
+
+
+## get sims actions
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a list of actions for each simulation
+  * Verodin
+
+
+
+## get single feed
+_1 unique descriptions / Provided by 1 apps_
+
+* Get feed info for a single feed
+  * Carbon Black ThreatHunter
+
+
+
+## get snapshot info
+_1 unique descriptions / Provided by 1 apps_
+
+* Get information of a specific snapshot
+  * Nutanix Prism
+
+
+
+## get source
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a single source by ID
+  * Tanium Detect
+
+
+
+## get sourcetype
+_1 unique descriptions / Provided by 1 apps_
+
+* Show details for a single source type by ID
+  * Tanium Detect
+
+
+
+## get status
+_5 unique descriptions / Provided by 5 apps_
+
+* Get GPIO status
+  * BerryIO
+* Get command status report
+  * Symantec Endpoint Protection 14
+* Get status of the event on a machine
+  * Windows Defender ATP
+* Get the status of a previously executed query
+  * Endace
+* Retrieve detonation status present in Threatstream
+  * ThreatStream
+
+
+
+## get suppression rule
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a suppression rule by ID
+  * Tanium Detect
+
+
+
+## get system attributes
+_1 unique descriptions / Provided by 1 apps_
+
+* Gets the attributes of a computer/system
+  * LDAP
+
+
+
+## get system info
+_11 unique descriptions / Provided by 17 apps_
+
+* Get details of a device, given the device ID
+  * Falcon Host API
+* Get info about a device
+  * MobileIron
+* Get information about a VM
+  * Nutanix Prism
+  * vSphere
+  * Microsoft Azure Compute
+* Get information about a device
+  * Cylance
+* Get information about a server
+  * CloudPassage Halo
+* Get information about a system
+  * WMI
+* Get information about a system using OSXCollector
+  * OSXCollector
+* Get information about an endpoint
+  * Carbon Black Response
+  * CylancePROTECT
+  * GRR Rapid Response
+  * Carbon Black Protection (Bit9)
+  * NetWitness Endpoint
+* Get system information
+  * Infoblox DDI
+* Get system information for an endpoint
+  * FireEye HX
+* Gets the information about the computers in a specified domain
+  * Symantec Endpoint Protection 14
+
+
+
+## get tagged hosts
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve hosts based on descriptive tags
+  * Vectra Active Enforcement
+
+
+
+## get threat indicators
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve the subjects, senders, domains, URLs, or MD5 or SHA256 hashes that operators identified in ...
+  * Cofense Triage
+
+
+
+## get ticket
+_9 unique descriptions / Provided by 12 apps_
+
+* Get case (issue) information
+  * PhishLabs
+* Get case information
+  * ArcSight ESM
+* Get incident information
+  * BMC Remedy
+  * Cherwell
+* Get info about a Case
+  * Salesforce
+* Get information about a single ticket
+  * Request Tracker
+* Get ticket
+  * OTRS
+* Get ticket (issue) information
+  * Jira
+  * TheHive
+* Get ticket information
+  * Zendesk
+  * RSA Archer
+* Get ticket/record information
+  * ServiceNow
+
+
+
+## get timeline
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute the timeliner volatility plugin
+  * Volatility
+
+
+
+## get triage
+_1 unique descriptions / Provided by 1 apps_
+
+* Request Endpoint Host Triage Package
+  * FireEye HX
+
+
+
+## get uptime
+_1 unique descriptions / Provided by 1 apps_
+
+* Get time since SDN controller startup.
+  * Floodlight SDN
+
+
+
+## get user
+_7 unique descriptions / Provided by 11 apps_
+
+* Get details of all the groups and attached policies for the user
+  * AWS IAM
+* Get information about a person
+  * Pipl
+* Get information about a user
+  * CloudPassage Halo
+  * Okta
+  * Ivanti ITSM
+  * xMatters
+  * Cherwell
+* Get information about a user of a Slack team
+  * Slack
+* Get user_ID from e-mail address
+  * Cisco Spark
+* Gets the attributes of a user
+  * KnowThyCustomer
+* Query Digital Shadows Breach Database for a username
+  * Digital Shadows
+
+
+
+## get user activity
+_1 unique descriptions / Provided by 1 apps_
+
+* Get user activity from the specified number of hours ago
+  * Preempt
+
+
+
+## get user attributes
+_1 unique descriptions / Provided by 2 apps_
+
+* Gets the attributes of a user
+  * Preempt
+  * LDAP
+
+
+
+## get user by id
+_1 unique descriptions / Provided by 1 apps_
+
+* Get user by ID
+  * Axonius Cybersecurity Asset Management
+
+
+
+## get user importance
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the importance value of a user
+  * Interset AI
+
+
+
+## get user info
+_1 unique descriptions / Provided by 1 apps_
+
+* Get information on a particular user
+  * PagerDuty
+
+
+
+## get user risk
+_3 unique descriptions / Provided by 3 apps_
+
+* Action to retrieve the latest risk score for a user
+  * Risk Fabric
+* Get a user&#39;s risk value as determined by Interset analytics
+  * Interset AI
+* Gets the risk of a user
+  * Preempt
+
+
+
+## get users
+_2 unique descriptions / Provided by 2 apps_
+
+* Get the list of users
+  * LDAP
+* Query users
+  * Axonius Cybersecurity Asset Management
+
+
+
+## get version
+_2 unique descriptions / Provided by 3 apps_
+
+* Get Symantec Management Center version
+  * Symantec Management Center
+* Gets the software version information of the device.
+  * Cisco Catalyst
+  * Cisco ASA
+
+
+
+## get vm
+_1 unique descriptions / Provided by 1 apps_
+
+* Get information about the instance associated with an IP
+  * OpenStack
+
+
+
+## get vulnerabilities
+_1 unique descriptions / Provided by 1 apps_
+
+* Get vulnerabilities for a specific device
+  * Kenna Security
+
+
+
+## get vulnerability
+_2 unique descriptions / Provided by 2 apps_
+
+* Get information about a vulnerability
+  * CloudPassage Halo
+* Get vulnerability present in ThreatStream by ID number
+  * ThreatStream
+
+
+
+## get zone
+_1 unique descriptions / Provided by 1 apps_
+
+* Get zone(s) info
+  * Verodin
+
+
+
+## git commit
+_1 unique descriptions / Provided by 1 apps_
+
+* Commit changes
+  * Git
+
+
+
+## git pull
+_1 unique descriptions / Provided by 1 apps_
+
+* Pull the repo
+  * Git
+
+
+
+## git push
+_1 unique descriptions / Provided by 1 apps_
+
+* Push commits to the remote server
+  * Git
+
+
+
+## git status
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the result of git status
+  * Git
+
+
+
+## host report
+_1 unique descriptions / Provided by 1 apps_
+
+* Search in SlashNext Cloud database and retrieve a detailed report for a host and associated ...
+  * SlashNext Phishing Incident Response
+
+
+
+## host reputation
+_1 unique descriptions / Provided by 1 apps_
+
+* Search in SlashNext Cloud database and retrieve the reputation of a host
+  * SlashNext Phishing Incident Response
+
+
+
+## host urls
+_1 unique descriptions / Provided by 1 apps_
+
+* Search in SlashNext Cloud database and retrieve a list of all URLs associated with the ...
+  * SlashNext Phishing Incident Response
+
+
+
+## hosting history
+_1 unique descriptions / Provided by 1 apps_
+
+* Obtain changes to registrar, IP, etc
+  * DomainTools
+
+
+
+## hunt alias
+_1 unique descriptions / Provided by 1 apps_
+
+* Hunt for an alias in SocialNet
+  * ShadowDragon SocialNet
+
+
+
+## hunt bitcoin address
+_1 unique descriptions / Provided by 1 apps_
+
+* Get report IDs associated with a bitcoin address
+  * TruSTAR
+
+
+
+## hunt cve
+_1 unique descriptions / Provided by 1 apps_
+
+* Get report IDs associated with a CVE (Common Vulnerability and Exposure) number
+  * TruSTAR
+
+
+
+## hunt domain
+_9 unique descriptions / Provided by 9 apps_
+
+* Get a list of device IDs on which the domain was matched
+  * Falcon Host API
+* Hunt a domain and retrieve a list of associated tags
+  * AutoFocus
+* Hunt a domain and retrieve available information
+  * ThreatConnect
+* Hunt a domain in the network
+  * ProtectWise
+* Look for information about a domain
+  * Cofense Intelligence
+* Look for information about a domain in the Intsights database
+  * IntSights
+* Look for information about a domain in the ThreatScape product database
+  * iSight Partners
+* Look for information about a domain in the alerts database.
+  * FireEye
+* Search for a given domain in the Falcon Sandbox database
+  * Falcon Sandbox
+
+
+
+## hunt email
+_4 unique descriptions / Provided by 4 apps_
+
+* Get report IDs associated with an email address
+  * TruSTAR
+* Hunt an email and retrieve available information
+  * ThreatConnect
+* Hunt for an email address in SocialNet
+  * ShadowDragon SocialNet
+* Look for information about a sender in the alerts database.
+  * FireEye
+
+
+
+## hunt file
+_17 unique descriptions / Provided by 18 apps_
+
+* Find endpoints with file
+  * Cylance
+* Get report IDs associated with a file
+  * TruSTAR
+* Hunt a file and retrieve a list of associated tags
+  * AutoFocus
+* Hunt a file hash and retrieve available information
+  * ThreatConnect
+* Hunt a file on the network using the hash
+  * CylancePROTECT
+* Hunt file on forensic search
+  * Code42
+* Hunt for a binary file on the network by querying for the MD5 hash of ...
+  * Carbon Black Response
+* Hunt for a file in the network
+  * ProtectWise
+* Hunt for a file on the network by querying for the hash
+  * Falcon Host API
+* Launch a search for a specific file
+  * Endgame
+* Look for information about a file
+  * Cofense Intelligence
+  * DeepSight
+* Look for information about a file hash in the Intsights database
+  * IntSights
+* Look for information about a file hash in the ThreatScape product database
+  * iSight Partners
+* Look for information about a file hash in the alerts database.
+  * FireEye
+* Search for a file by one kind of data(Sha1, Md5, Sha256 or File name) in ...
+  * Falcon Sandbox
+* Search for a file matching a SHA256 hash across all endpoints
+  * FireAMP
+* Searches for a particular file across all the endpoints
+  * Carbon Black Protection (Bit9)
+
+
+
+## hunt hash
+_1 unique descriptions / Provided by 1 apps_
+
+* Search for a file by one kind of hash(Sha1, Md5, Sha256) in the Falcon Sandbox ...
+  * Falcon Sandbox
+
+
+
+## hunt ip
+_10 unique descriptions / Provided by 10 apps_
+
+* Get report IDs associated with an IP/CIDR
+  * TruSTAR
+* Hunt an IP and retrieve a list of associated tags
+  * AutoFocus
+* Hunt an IP and retrieve any available information
+  * ThreatConnect
+* Hunt an IP in the network
+  * ProtectWise
+* Launch a search for a specific network connection
+  * Endgame
+* Look for information about an IP
+  * Cofense Intelligence
+* Look for information about an IP in the Intsights database
+  * IntSights
+* Look for information about an IP in the ThreatScape product database
+  * iSight Partners
+* Search for a given IP
+  * FireAMP
+* Search for a given IP in the Falcon Sandbox database
+  * Falcon Sandbox
+
+
+
+## hunt malware
+_1 unique descriptions / Provided by 1 apps_
+
+* Get report IDs associated with a malware indicator
+  * TruSTAR
+
+
+
+## hunt malware family
+_1 unique descriptions / Provided by 1 apps_
+
+* Search for a given malware family in the Falcon Sandbox database
+  * Falcon Sandbox
+
+
+
+## hunt name
+_1 unique descriptions / Provided by 1 apps_
+
+* Hunt for a person&#39;s name in SocialNet
+  * ShadowDragon SocialNet
+
+
+
+## hunt phone
+_1 unique descriptions / Provided by 1 apps_
+
+* Hunt for a phone number in SocialNet
+  * ShadowDragon SocialNet
+
+
+
+## hunt phrase
+_1 unique descriptions / Provided by 1 apps_
+
+* Hunt for a phrase in SocialNet
+  * ShadowDragon SocialNet
+
+
+
+## hunt process
+_1 unique descriptions / Provided by 1 apps_
+
+* Launch a search for a specific process
+  * Endgame
+
+
+
+## hunt registry
+_1 unique descriptions / Provided by 1 apps_
+
+* Launch a search for a specific registry
+  * Endgame
+
+
+
+## hunt registry key
+_1 unique descriptions / Provided by 1 apps_
+
+* Get report IDs associated with a registry key
+  * TruSTAR
+
+
+
+## hunt similar
+_1 unique descriptions / Provided by 1 apps_
+
+* Search for similar samples by given Sha256 hash in the Falcon Sandbox database
+  * Falcon Sandbox
+
+
+
+## hunt url
+_8 unique descriptions / Provided by 8 apps_
+
+* Get report IDs associated with a URL
+  * TruSTAR
+* Hunt a URL and retrieve a list of associated tags
+  * AutoFocus
+* Hunt a URL and retrieve available information
+  * ThreatConnect
+* Look for information about a URL
+  * Cofense Intelligence
+* Look for information about a URL in the Intsights database
+  * IntSights
+* Look for information about a URL in the ThreatScape product database
+  * iSight Partners
+* Search for a given URL
+  * FireAMP
+* Search for a given URL in the Falcon Sandbox database
+  * Falcon Sandbox
+
+
+
+## hunt user
+_1 unique descriptions / Provided by 1 apps_
+
+* Launch a search for a specific user session
+  * Endgame
+
+
+
+## import container
+_1 unique descriptions / Provided by 1 apps_
+
+* Import a container from an external Phantom instance
+  * Phantom
+
+
+
+## import domain observable
+_1 unique descriptions / Provided by 1 apps_
+
+* Import domain observable into ThreatStream
+  * ThreatStream
+
+
+
+## import email observable
+_1 unique descriptions / Provided by 1 apps_
+
+* Import email observable into ThreatStream
+  * ThreatStream
+
+
+
+## import file observable
+_1 unique descriptions / Provided by 1 apps_
+
+* Import file observable into ThreatStream
+  * ThreatStream
+
+
+
+## import ip observable
+_1 unique descriptions / Provided by 1 apps_
+
+* Import IP observable into ThreatStream
+  * ThreatStream
+
+
+
+## import observables
+_1 unique descriptions / Provided by 1 apps_
+
+* Import observables into ThreatStream
+  * ThreatStream
+
+
+
+## import url observable
+_1 unique descriptions / Provided by 1 apps_
+
+* Import URL observable into ThreatStream
+  * ThreatStream
+
+
+
+## initialize computers list
+_1 unique descriptions / Provided by 1 apps_
+
+* Start background question for computers list
+  * Tanium Threat Response
+
+
+
+## input framework
+_1 unique descriptions / Provided by 1 apps_
+
+* Update input framework
+  * Corelight
+
+
+
+## install firewall
+_1 unique descriptions / Provided by 1 apps_
+
+* Install a virtual firewall with a property
+  * ForeScout CounterACT
+
+
+
+## intelligence update
+_1 unique descriptions / Provided by 1 apps_
+
+* Update intel framework
+  * Corelight
+
+
+
+## invoke lambda
+_1 unique descriptions / Provided by 2 apps_
+
+* Invoke an AWS Lambda function
+  * AWS Community App
+  * AWS Lambda
+
+
+
+## ip dns history
+_1 unique descriptions / Provided by 1 apps_
+
+* Find domains that have resolved to this IP address
+  * ZETAlytics
+
+
+
+## ip intelligence
+_1 unique descriptions / Provided by 1 apps_
+
+* Get threat intelligence for an IP address
+  * Recorded Future
+
+
+
+## ip reputation
+_16 unique descriptions / Provided by 19 apps_
+
+* Checks IP against CriticalStack IP lists
+  * CriticalStack Intel
+* Get IP info/reputation
+  * PassiveTotal
+* Get IP reputation
+  * DeepSight
+* Get a quick indicator of the risk associated with an IP address
+  * Recorded Future
+* Get attributes, related indicators, and related adversaries
+  * ThreatQ
+* Get information about a given IP
+  * ThreatStream
+* Gets information about an IP
+  * Cymon
+  * Metadefender
+* Looks up information about IP addresses in Kaspersky Threat Intelligence Portal
+  * Kaspersky Threat Intelligence
+* Queries Greynoise for IP info
+  * Greynoise
+* Queries IP info
+  * EclecticIQ app
+  * ZETAlytics
+  * APIvoid
+* Queries Polyswarm for IP reputation info
+  * PolySwarm
+* Queries VirusTotal for IP info
+  * VirusTotal
+* Queries for IP reputation information
+  * AlienVault OTX
+* Query OpenDNS for IP info
+  * OpenDNS Investigate
+* Query for IP reputation
+  * Malware Domain List
+* Returns IP reputation report.
+  * IBM XForce
+
+
+
+## isolate desktop
+_1 unique descriptions / Provided by 1 apps_
+
+* Desktop Isolation an endpoint when threats are found
+  * Malwarebytes Cloud
+
+
+
+## isolate endpoint
+_1 unique descriptions / Provided by 1 apps_
+
+* When threats are found, isolate a network, process, or desktop endpoint
+  * Malwarebytes Cloud
+
+
+
+## isolate network
+_1 unique descriptions / Provided by 1 apps_
+
+* Network Isolation on an endpoint when threats are found
+  * Malwarebytes Cloud
+
+
+
+## isolate process
+_1 unique descriptions / Provided by 1 apps_
+
+* When threats are found, isolate a process endpoint
+  * Malwarebytes Cloud
+
+
+
+## link ioc
+_1 unique descriptions / Provided by 1 apps_
+
+* Link IOCs together
+  * ThreatQ
+
+
+
+## list acls
+_1 unique descriptions / Provided by 1 apps_
+
+* List ACLs
+  * AWS WAF
+
+
+
+## list acquisitions
+_1 unique descriptions / Provided by 1 apps_
+
+* Retireve a list of all acquisitions with optional filters
+  * FireEye HX
+
+
+
+## list addresses
+_1 unique descriptions / Provided by 2 apps_
+
+* Get the email addresses that make up a Distribution List
+  * Microsoft Exchange On-Premise EWS
+  * EWS for Office 365
+
+
+
+## list alerts
+_6 unique descriptions / Provided by 6 apps_
+
+* Get a list of uploaded IOCs that match the search criteria
+  * Falcon Host API
+* List alerts for an incident
+  * RSA Security Analytics
+* List alerts with optional filtering, sorting, and pagination
+  * Tanium Detect
+* List all active alerts
+  * Microsoft SCOM
+* List all alerts of a given type
+  * Windows Defender ATP
+* List all the alerts/watchlists configured on the device
+  * Carbon Black Response
+
+
+
+## list annotations
+_1 unique descriptions / Provided by 1 apps_
+
+* List all uploaded annotations of specific scope
+  * Cisco Tetration Analytics
+
+
+
+## list applications
+_2 unique descriptions / Provided by 3 apps_
+
+* List the application that the device knows about and can block
+  * Juniper SRX
+* List the applications that the device knows about and can block
+  * Palo Alto Networks Firewall
+  * Panorama
+
+
+
+## list attachments
+_1 unique descriptions / Provided by 1 apps_
+
+* List of attachments for ticket
+  * Request Tracker
+
+
+
+## list autoscaling groups
+_1 unique descriptions / Provided by 1 apps_
+
+* Display autoscaling groups
+  * AWS EC2
+
+
+
+## list blocked domains
+_1 unique descriptions / Provided by 1 apps_
+
+* Queries OpenDNS for the blocked domain list.
+  * OpenDNS Umbrella
+
+
+
+## list branches
+_1 unique descriptions / Provided by 1 apps_
+
+* List the branches of a GitLab project
+  * GitLab
+
+
+
+## list buckets
+_1 unique descriptions / Provided by 1 apps_
+
+* List all buckets configured on S3
+  * AWS S3
+
+
+
+## list categories
+_1 unique descriptions / Provided by 1 apps_
+
+* Return a list of all API-managed categories
+  * Forcepoint Web Security
+
+
+
+## list certificates
+_1 unique descriptions / Provided by 1 apps_
+
+* Returns a list of certificates in Venafi
+  * Venafi
+
+
+
+## list channels
+_3 unique descriptions / Provided by 3 apps_
+
+* List public channels of a Slack team
+  * Slack
+* List public channels of a team
+  * Mattermost
+* Lists all channels of a group
+  * Microsoft Teams
+
+
+
+## list closing reasons
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a list of offense closing reasons
+  * QRadar
+
+
+
+## list columns
+_3 unique descriptions / Provided by 5 apps_
+
+* List all the columns in a table
+  * Microsoft SQL Server
+* List the columns of a table
+  * MySQL
+  * SQLite
+  * PostgreSQL
+* Lists all the columns of a table existing within the database connected to in your ...
+  * Microsoft Azure SQL
+
+
+
+## list commands
+_1 unique descriptions / Provided by 1 apps_
+
+* Lists the commands ran by users of the AWS account
+  * AWS Systems Manager
+
+
+
+## list comments
+_1 unique descriptions / Provided by 1 apps_
+
+* List comments for an issue on the GitHub repository
+  * GitHub
+
+
+
+## list computers
+_1 unique descriptions / Provided by 1 apps_
+
+* Get top 10 suggestions for computers where name or IP contains &lt;name&gt;
+  * Tanium Threat Response
+
+
+
+## list connections
+_6 unique descriptions / Provided by 6 apps_
+
+* Execute the netscan or connscan volatility plugin to list network connections
+  * Volatility
+* Get a list of connections
+  * Tanium Threat Response
+* List all active connections
+  * Windows Remote Management
+* List all of the connections from a given process name, PID, or Carbon Black process ...
+  * Carbon Black Response
+* List all the connections configured on the device
+  * GRR Rapid Response
+* Lists all the network connections. Requires root privileges. Requires netstat to be installed
+  * SSH
+
+
+
+## list connectors
+_1 unique descriptions / Provided by 1 apps_
+
+* List all connectors
+  * Kenna Security
+
+
+
+## list contacts
+_1 unique descriptions / Provided by 1 apps_
+
+* List all contacts of a user
+  * Skype for Business
+
+
+
+## list cookbooks
+_1 unique descriptions / Provided by 1 apps_
+
+* List all cookbooks
+  * Joe Sandbox v2
+
+
+
+## list detectors
+_1 unique descriptions / Provided by 1 apps_
+
+* Lists detectorIds of all the existing Amazon GuardDuty detector resources
+  * AWS GuardDuty
+
+
+
+## list device groups
+_3 unique descriptions / Provided by 3 apps_
+
+* List all device groups
+  * Microsoft SCCM
+* List all sites on the system
+  * BigFix
+* Retrieve a list of host sets in HX optionally filtered by name
+  * FireEye HX
+
+
+
+## list devices
+_8 unique descriptions / Provided by 8 apps_
+
+* Get a list of active devices
+  * MobileIron
+* List all devices
+  * Code42
+* List all devices of a given type
+  * RedSeal
+* List devices
+  * Kenna Security
+* List devices connected to RSA Security Analytics
+  * RSA Security Analytics
+* List devices conntected to CB Defense
+  * Carbon Black Defense
+* List devices tracked by the SDN controller.
+  * Floodlight SDN
+* List of recently seen devices
+  * Windows Defender ATP
+
+
+
+## list dimensions
+_1 unique descriptions / Provided by 1 apps_
+
+* List all dimensions
+  * Cisco Tetration Analytics
+
+
+
+## list directory roles
+_1 unique descriptions / Provided by 1 apps_
+
+* List the directory roles in a tenant
+  * Azure AD Graph
+
+
+
+## list documents
+_1 unique descriptions / Provided by 1 apps_
+
+* Lists one or more of the Systems Manager documents
+  * AWS Systems Manager
+
+
+
+## list domains
+_1 unique descriptions / Provided by 1 apps_
+
+* List all of the administrative domains configured on the device
+  * Symantec Endpoint Protection 14
+
+
+
+## list drive
+_1 unique descriptions / Provided by 1 apps_
+
+* List of Drives
+  * Microsoft OneDrive
+
+
+
+## list drivers
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute the driverscan volatility plugin to list loaded drivers
+  * Volatility
+
+
+
+## list endpoints
+_8 unique descriptions / Provided by 16 apps_
+
+* List all endpoints
+  * Cisco Tetration Analytics
+* List all endpoints connected to the system
+  * BigFix
+* List all of the endpoints connected to FireAMP
+  * FireAMP
+* List all the endpoints/sensors configured on the device
+  * Malwarebytes Cloud
+  * Carbon Black Response
+  * Endgame
+  * Falcon Host API
+  * SentinelOne
+  * CylancePROTECT
+  * GRR Rapid Response
+  * Microsoft SCOM
+  * Symantec Endpoint Protection 14
+* List and search the endpoints on HX
+  * FireEye HX
+* List devices connected to Cylance
+  * Cylance
+* Lists all the windows endpoints configured on NetWitness Endpoint
+  * NetWitness Endpoint
+* Returns all current agents in Empire
+  * Empire
+
+
+
+## list events
+_5 unique descriptions / Provided by 5 apps_
+
+* List events for an alert
+  * RSA Security Analytics
+* List events from user or group calendar
+  * MS Graph for Office 365
+* List events performed by a user
+  * GitHub
+* List events that match supplied filter criteria
+  * Carbon Black Defense
+* Query for specific events by providing a property name/value
+  * xMatters
+
+
+
+## list exports
+_1 unique descriptions / Provided by 1 apps_
+
+* List all exports for the given matter ID
+  * Google Vault
+
+
+
+## list external links
+_1 unique descriptions / Provided by 1 apps_
+
+* List multi-hop links discovered via BDDP.
+  * Floodlight SDN
+
+
+
+## list fields
+_2 unique descriptions / Provided by 2 apps_
+
+* List all fields on which user can query
+  * Moloch
+* List the fields available to be used in filters
+  * McAfee ESM
+
+
+
+## list files
+_4 unique descriptions / Provided by 4 apps_
+
+* Get the list of files
+  * G Suite for Drive
+* List all pcap files
+  * Moloch
+* List all quarantined files
+  * Netskope
+* List downloaded files in Tanium Threat Response
+  * Tanium Threat Response
+
+
+
+## list filters
+_2 unique descriptions / Provided by 2 apps_
+
+* Fetch a list of the filters from the instance
+  * Ixia Network Packet Broker
+* Returns a paginated list of the current filters
+  * AWS GuardDuty
+
+
+
+## list firewall rules
+_3 unique descriptions / Provided by 3 apps_
+
+* List firewall rules stored in the controller.
+  * Floodlight SDN
+* List the firewall rules
+  * Windows Remote Management
+* Lists the rules in iptables. Requires root privileges. Not supported on OS X
+  * SSH
+
+
+
+## list functions
+_1 unique descriptions / Provided by 1 apps_
+
+* List available AWS Lambda functions, with the version-specific configuration for each
+  * AWS Lambda
+
+
+
+## list group members
+_1 unique descriptions / Provided by 1 apps_
+
+* List the members in a group
+  * Azure AD Graph
+
+
+
+## list groups
+_9 unique descriptions / Provided by 9 apps_
+
+* Fetch the details of the host groups
+  * CrowdStrike OAuth API
+* List all groups
+  * Microsoft Teams
+* List all groups of a domain
+  * Google Vault
+* List all groups of a user
+  * Skype for Business
+* List all of the administrative groups configured on the device
+  * Symantec Endpoint Protection 14
+* List groups in organization
+  * Azure AD Graph
+* List groups of AWS IAM
+  * AWS IAM
+* List the RAM user groups
+  * Alibaba RAM
+* Lists all Mimecast groups matching the requested search criteria
+  * Mimecast
+
+
+
+## list hashes
+_1 unique descriptions / Provided by 1 apps_
+
+* List the MD5 hashes from the past 24 hours
+  * MalShare
+
+
+
+## list holds
+_1 unique descriptions / Provided by 1 apps_
+
+* List all holds for the given matter ID
+  * Google Vault
+
+
+
+## list hosts
+_3 unique descriptions / Provided by 3 apps_
+
+* List all deceptive hosts (network decoys) on the Attivo BOTsink
+  * Attivo
+* List hosts
+  * Infoblox DDI
+* List hosts in CounterACT
+  * ForeScout CounterACT
+
+
+
+## list incidents
+_4 unique descriptions / Provided by 4 apps_
+
+* Get list of incidents on VictorOps
+  * VictorOps
+* Get the list of existing Canary Incidents
+  * Canary
+* List incidents present in ThreatStream
+  * ThreatStream
+* List incidents within a time frame
+  * RSA Security Analytics
+
+
+
+## list input
+_1 unique descriptions / Provided by 1 apps_
+
+* List the different input frameworks
+  * Corelight
+
+
+
+## list intel
+_1 unique descriptions / Provided by 1 apps_
+
+* List intel documents
+  * Tanium Detect
+
+
+
+## list intelligence
+_1 unique descriptions / Provided by 1 apps_
+
+* List the different input framework endpoints
+  * Corelight
+
+
+
+## list internal links
+_1 unique descriptions / Provided by 1 apps_
+
+* List single-hop links discovered via LLDP.
+  * Floodlight SDN
+
+
+
+## list ioc
+_1 unique descriptions / Provided by 1 apps_
+
+* List IOC
+  * NetWitness Endpoint
+
+
+
+## list ip sets
+_2 unique descriptions / Provided by 2 apps_
+
+* List IP sets
+  * AWS WAF
+* Lists the IPSets of the GuardDuty service specified by the detector ID
+  * AWS GuardDuty
+
+
+
+## list ips
+_1 unique descriptions / Provided by 1 apps_
+
+* List all IPs on the outbound Blacklist or Whitelist
+  * Arbor APS
+
+
+
+## list issues
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a list of issues for the GitHub repository
+  * GitHub
+
+
+
+## list items
+_1 unique descriptions / Provided by 1 apps_
+
+* List of items
+  * Microsoft OneDrive
+
+
+
+## list labels
+_1 unique descriptions / Provided by 1 apps_
+
+* List all available labels in the system
+  * Tanium Detect
+
+
+
+## list languages
+_1 unique descriptions / Provided by 1 apps_
+
+* List languages that can be used for translation
+  * Watson - Language Translator
+
+
+
+## list layers
+_1 unique descriptions / Provided by 1 apps_
+
+* List access layers
+  * Check Point Firewall
+
+
+
+## list local snapshots
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a list of local snapshots
+  * Tanium Threat Response
+
+
+
+## list managers
+_1 unique descriptions / Provided by 1 apps_
+
+* List all log managers on the system
+  * LogRhythm SIEM
+
+
+
+## list matters
+_1 unique descriptions / Provided by 1 apps_
+
+* List all open, closed, and deleted matters
+  * Google Vault
+
+
+
+## list members
+_2 unique descriptions / Provided by 2 apps_
+
+* Fetch a list of configured node members of a pool (if no value is provided, ...
+  * F5 BIG-IP LTM
+* Lists the members of a specified Mimecast group
+  * Mimecast
+
+
+
+## list metrics
+_1 unique descriptions / Provided by 1 apps_
+
+* List all metrics
+  * Cisco Tetration Analytics
+
+
+
+## list mfts
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute the mftparser volatility plugin to get a list of master file table entries
+  * Volatility
+
+
+
+## list modules
+_1 unique descriptions / Provided by 1 apps_
+
+* List all available modules in Empire
+  * Empire
+
+
+
+## list mrus
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute the shellbags volatility plugin to get a list of MRUs (Most recently used items)
+  * Volatility
+
+
+
+## list mutexes
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute the mutantscan volatility plugin to list mutexes
+  * Volatility
+
+
+
+## list network interfaces
+_1 unique descriptions / Provided by 1 apps_
+
+* Display network interfaces
+  * AWS EC2
+
+
+
+## list network view
+_1 unique descriptions / Provided by 1 apps_
+
+* List network view
+  * Infoblox DDI
+
+
+
+## list networks
+_1 unique descriptions / Provided by 2 apps_
+
+* Lists currently blocked networks
+  * Cisco Firepower
+  * Cisco Router BGP RTBH
+
+
+
+## list nodes
+_1 unique descriptions / Provided by 1 apps_
+
+* Fetch a list of nodes (if no value is provided, all nodes will be returned)
+  * F5 BIG-IP LTM
+
+
+
+## list notifications
+_1 unique descriptions / Provided by 1 apps_
+
+* List notifications with optional filtering, sorting, and pagination
+  * Tanium Detect
+
+
+
+## list objects
+_2 unique descriptions / Provided by 2 apps_
+
+* Get a list of objects
+  * Salesforce
+* List objects in a bucket
+  * AWS S3
+
+
+
+## list observables
+_1 unique descriptions / Provided by 1 apps_
+
+* List observables present in ThreatStream
+  * ThreatStream
+
+
+
+## list offenses
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a list of offenses
+  * QRadar
+
+
+
+## list oncalls
+_2 unique descriptions / Provided by 2 apps_
+
+* Get all on-call users/teams on VictorOps
+  * VictorOps
+* Get list of oncalls on PagerDuty
+  * PagerDuty
+
+
+
+## list open files
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute the filescan volatility plugin to list open files
+  * Volatility
+
+
+
+## list organizations
+_1 unique descriptions / Provided by 3 apps_
+
+* List all organizations
+  * Code42
+  * GitHub
+  * Google Vault
+
+
+
+## list packages
+_1 unique descriptions / Provided by 1 apps_
+
+* List all packages on a given server
+  * CloudPassage Halo
+
+
+
+## list patches
+_3 unique descriptions / Provided by 3 apps_
+
+* List all software patches
+  * Microsoft SCCM
+* List patches for a specified device
+  * Kenna Security
+* List patches from a site
+  * BigFix
+
+
+
+## list payloads
+_1 unique descriptions / Provided by 1 apps_
+
+* List all current stagers
+  * Empire
+
+
+
+## list playbooks
+_2 unique descriptions / Provided by 2 apps_
+
+* List all configured playbooks on the Attivo BOTsink
+  * Attivo
+* List the playbooks available in the connected ThreatGrid envrionment
+  * Threat Grid
+
+
+
+## list policies
+_13 unique descriptions / Provided by 13 apps_
+
+* Get Symantec Management Center policies
+  * Symantec Management Center
+* Get a list of tenant policies
+  * CylancePROTECT
+* Get list of escalation policies on PagerDuty
+  * PagerDuty
+* Get list of policies configured on VictorOps
+  * VictorOps
+* List AppLocker Policies
+  * Windows Remote Management
+* List configured IPv4 policies
+  * FortiGate
+* List polcies that exist on CB Defense
+  * Carbon Black Defense
+* List policies
+  * Check Point Firewall
+* List policies in CounterACT
+  * ForeScout CounterACT
+* List the RAM policies
+  * Alibaba RAM
+* List the available scan policies
+  * Nessus
+* Lists the scan policies available in Tenable SecurityCenter
+  * SecurityCenter
+* Returns a list of all policies in Venafi
+  * Venafi
+
+
+
+## list pools
+_1 unique descriptions / Provided by 1 apps_
+
+* Fetch a list of configured pools (if no value is provided, all pools will be ...
+  * F5 BIG-IP LTM
+
+
+
+## list posts
+_1 unique descriptions / Provided by 1 apps_
+
+* List posts of a channel
+  * Mattermost
+
+
+
+## list processes
+_8 unique descriptions / Provided by 9 apps_
+
+* List all processes on a given server
+  * CloudPassage Halo
+* List processes on endpoint
+  * SSH
+* List processes that have recently used the IOC on a particular device.
+  * Falcon Host API
+* List processes that match supplied filter criteria
+  * Carbon Black Defense
+* List the currently running processes
+  * Windows Remote Management
+* List the running processes of the devices registered on the Tanium server
+  * Tanium REST
+* List the running processes on a machine
+  * Carbon Black Response
+  * Tanium
+* Queries the system memory dump file for a list of processes and their information
+  * Volatility
+
+
+
+## list projects
+_3 unique descriptions / Provided by 3 apps_
+
+* List all projects
+  * Jira
+* List all the projects in the GitLab instance
+  * GitLab
+* List information about all projects
+  * Tala
+
+
+
+## list providers
+_1 unique descriptions / Provided by 1 apps_
+
+* List identity providers (IdPs) in your organization
+  * Okta
+
+
+
+## list queries
+_1 unique descriptions / Provided by 1 apps_
+
+* List named queries on Athena
+  * AWS Athena
+
+
+
+## list questions
+_2 unique descriptions / Provided by 2 apps_
+
+* List the saved questions on the box
+  * Tanium
+* Retrieves either a history of the most recent questions or a list of saved questions
+  * Tanium REST
+
+
+
+## list repos
+_2 unique descriptions / Provided by 2 apps_
+
+* List all repos of an organization
+  * GitHub
+* List repos configured/pulled
+  * Git
+
+
+
+## list resource groups
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the list of resource groups for the subscription
+  * Microsoft Azure Compute
+
+
+
+## list roles
+_3 unique descriptions / Provided by 3 apps_
+
+* List roles available in AWS IAM
+  * AWS IAM
+* List the RAM roles
+  * Alibaba RAM
+* Lists all roles assigned to a user
+  * Okta
+
+
+
+## list rooms
+_2 unique descriptions / Provided by 2 apps_
+
+* List Spark rooms
+  * Cisco Spark
+* List non-archived rooms
+  * HipChat
+
+
+
+## list routing
+_1 unique descriptions / Provided by 1 apps_
+
+* Get list of routing keys and associated teams on VictorOps
+  * VictorOps
+
+
+
+## list rpz
+_1 unique descriptions / Provided by 1 apps_
+
+* List details of Response Policy Zones
+  * Infoblox DDI
+
+
+
+## list rules
+_2 unique descriptions / Provided by 2 apps_
+
+* List Rules
+  * AWS WAF
+* List all QRadar rules
+  * QRadar
+
+
+
+## list scopes
+_1 unique descriptions / Provided by 1 apps_
+
+* List all scopes
+  * Cisco Tetration Analytics
+
+
+
+## list security groups
+_2 unique descriptions / Provided by 2 apps_
+
+* Display security groups
+  * AWS EC2
+* Get the list of all security groups in a resource group
+  * Microsoft Azure Compute
+
+
+
+## list servers
+_3 unique descriptions / Provided by 3 apps_
+
+* Get all current listeners
+  * Empire
+* List all servers for a given user, process, package and vulnerability
+  * CloudPassage Halo
+* List servers under an upstream
+  * NGINX
+
+
+
+## list services
+_2 unique descriptions / Provided by 2 apps_
+
+* Get list of available services on PagerDuty
+  * PagerDuty
+* Get the list of installed services on the system
+  * WMI
+
+
+
+## list sessions
+_4 unique descriptions / Provided by 4 apps_
+
+* List all active sessions
+  * Windows Remote Management
+* List all logged in users on a machine
+  * Windows Defender ATP
+* List the current VPN sessions
+  * Cisco ASA
+* List the sessions currently available on the Monitoring node.
+  * Cisco ISE
+
+
+
+## list sites
+_2 unique descriptions / Provided by 2 apps_
+
+* List all sites found on the InsightVM instance
+  * InsightVM
+* List all sites on the system (DEPRECATED)
+  * BigFix
+
+
+
+## list snapshots
+_3 unique descriptions / Provided by 3 apps_
+
+* Get a list of all the snapshots
+  * Tanium Threat Response
+* Get the list of snapshots under the subscription
+  * Microsoft Azure Compute
+* List snapshots in a cluster
+  * Nutanix Prism
+
+
+
+## list sockets
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute the sockscan volatility plugin. This command is only available on Windows XP and Windows ...
+  * Volatility
+
+
+
+## list sources
+_1 unique descriptions / Provided by 1 apps_
+
+* List sources configured to manage IOC&#39;s in the system
+  * Tanium Detect
+
+
+
+## list sourcetypes
+_1 unique descriptions / Provided by 1 apps_
+
+* List source types supported on this system
+  * Tanium Detect
+
+
+
+## list static flows
+_1 unique descriptions / Provided by 1 apps_
+
+* List static flow rules.
+  * Floodlight SDN
+
+
+
+## list subnets
+_2 unique descriptions / Provided by 2 apps_
+
+* Get the list of subnets
+  * Microsoft Azure Compute
+* List all subnets of a given type
+  * RedSeal
+
+
+
+## list suppression rules
+_1 unique descriptions / Provided by 1 apps_
+
+* List all available suppression rules in the system
+  * Tanium Detect
+
+
+
+## list switches
+_1 unique descriptions / Provided by 1 apps_
+
+* List SDN switches managed by the controller.
+  * Floodlight SDN
+
+
+
+## list tables
+_5 unique descriptions / Provided by 7 apps_
+
+* List Tables
+  * Big Query
+* List all the collections in the database
+  * MongoDB
+* List all the tables in the database
+  * Microsoft SQL Server
+* List the tables in the database
+  * MySQL
+  * SQLite
+  * PostgreSQL
+* Lists all the tables in the database connected to in your asset
+  * Microsoft Azure SQL
+
+
+
+## list tags
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the names and values of all resource tags that are defined in the subscription
+  * Microsoft Azure Compute
+
+
+
+## list targets
+_1 unique descriptions / Provided by 1 apps_
+
+* List the assessment target ARNs within the AWS account
+  * AWS Inspector
+
+
+
+## list teams
+_4 unique descriptions / Provided by 4 apps_
+
+* Get list of teams configured on PagerDuty
+  * PagerDuty
+* Get list of teams configured on VictorOps
+  * VictorOps
+* List all teams of an organization
+  * GitHub
+* List teams
+  * Mattermost
+
+
+
+## list templates
+_1 unique descriptions / Provided by 1 apps_
+
+* List the assessment templates of assessment targets
+  * AWS Inspector
+
+
+
+## list threats
+_3 unique descriptions / Provided by 3 apps_
+
+* Get a list of threats on the specific device
+  * CylancePROTECT
+* List the threats
+  * SentinelOne
+* Lists the ThreatIntelSets of the GuardDuty service specified by the detector ID
+  * AWS GuardDuty
+
+
+
+## list tickets
+_10 unique descriptions / Provided by 10 apps_
+
+* Get a list of Cases
+  * Salesforce
+* Get a list of Tickets
+  * Zendesk
+* Get a list of cases in PhishLabs
+  * PhishLabs
+* Get a list of incidents
+  * Cherwell
+* Get a list of tickets
+  * Request Tracker
+* Get a list of tickets (issues) in a project
+  * Jira
+* Get a list of tickets in an application
+  * RSA Archer
+* Get a list of tickets/records
+  * ServiceNow
+* Get list of incidents
+  * BMC Remedy
+* List all tickets
+  * TheHive
+
+
+
+## list translations
+_1 unique descriptions / Provided by 1 apps_
+
+* List languages translation models
+  * Watson - Language Translator
+
+
+
+## list triggers
+_1 unique descriptions / Provided by 1 apps_
+
+* List the pipeline triggers of a GitLab project
+  * GitLab
+
+
+
+## list upstreams
+_1 unique descriptions / Provided by 1 apps_
+
+* List all configured upstreams
+  * NGINX
+
+
+
+## list url categories
+_1 unique descriptions / Provided by 1 apps_
+
+* List all URL categories
+  * Zscaler
+
+
+
+## list urls
+_2 unique descriptions / Provided by 2 apps_
+
+* List the sample sources from the past 24 hours
+  * MalShare
+* Lists all managed URLs from the black/white list
+  * Mimecast
+
+
+
+## list user attributes
+_1 unique descriptions / Provided by 1 apps_
+
+* List attributes for all or a specified user
+  * Azure AD Graph
+
+
+
+## list user groups
+_2 unique descriptions / Provided by 3 apps_
+
+* Get the groups that the user is a member of
+  * Okta
+  * LDAP
+* List configured user groups
+  * Cisco Tetration Analytics
+
+
+
+## list users
+_20 unique descriptions / Provided by 23 apps_
+
+* Get a list of users
+  * Cherwell
+* Get information about multiple users matching a property name/value
+  * xMatters
+* Get list of users configured on VictorOps
+  * VictorOps
+* Get list of users on PagerDuty
+  * PagerDuty
+* Get the list of users
+  * G Suite for Drive
+  * Okta
+  * G Suite for GMail
+* List all active users
+  * HipChat
+* List all deceptive users on the Attivo BOTsink
+  * Attivo
+* List all the users configured on the device
+  * Endgame
+* List all the users in the GitLab instance
+  * GitLab
+* List all users
+  * Code42
+  * Microsoft Teams
+* List all users on a given server
+  * CloudPassage Halo
+* List all users on system
+  * Ivanti ITSM
+* List the RAM users
+  * Alibaba RAM
+* List users configured on a system
+  * WMI
+* List users in a tenant
+  * Azure AD Graph
+* List users of AWS IAM
+  * AWS IAM
+* List users of a Slack team
+  * Slack
+* List users of a team
+  * Mattermost
+* List users of an organization
+  * GitHub
+* Lists users and roles
+  * AWS Community App 2
+
+
+
+## list virtual networks
+_1 unique descriptions / Provided by 1 apps_
+
+* Get the list of virtual networks
+  * Microsoft Azure Compute
+
+
+
+## list vms
+_2 unique descriptions / Provided by 4 apps_
+
+* Get the list of registered VMs
+  * Nutanix Prism
+  * vSphere
+  * Microsoft Azure Compute
+* List all instances in the OpenStack region
+  * OpenStack
+
+
+
+## list vulnerabilities
+_3 unique descriptions / Provided by 3 apps_
+
+* List all vulnerabilities on a given server
+  * CloudPassage Halo
+* List vulnerabilities present in ThreatStream
+  * ThreatStream
+* Query SecurityCenter for a list of Vulnerabilities associated with an IP or host name
+  * SecurityCenter
+
+
+
+## list zones
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a list of tenant zones
+  * CylancePROTECT
+
+
+
+## live response
+_1 unique descriptions / Provided by 1 apps_
+
+* Take action on the remote endpoint
+  * Carbon Black ThreatHunter
+
+
+
+## load hash
+_1 unique descriptions / Provided by 1 apps_
+
+* Load or monitor Iris search results by Iris export hash
+  * DomainTools Iris
+
+
+
+## locate device
+_1 unique descriptions / Provided by 1 apps_
+
+* Locates a specific device in your cloud managed Meraki network
+  * Cisco Meraki Dashboard
+
+
+
+## lock device
+_2 unique descriptions / Provided by 2 apps_
+
+* Invoke an access lock on a specified device
+  * Code42
+* Lock the device
+  * MobileIron
+
+
+
+## logoff user
+_2 unique descriptions / Provided by 2 apps_
+
+* Logoff a user
+  * Windows Remote Management
+* Logout a user on endpoint (Requires root privileges)
+  * SSH
+
+
+
+## lookup av
+_1 unique descriptions / Provided by 1 apps_
+
+* Lookup AV String
+  * ThreatMiner API
+
+
+
+## lookup certificate
+_1 unique descriptions / Provided by 1 apps_
+
+* Lookup certificate info
+  * Censys
+
+
+
+## lookup domain
+_10 unique descriptions / Provided by 13 apps_
+
+* Check for the presence of a domain in a threat intelligence feed
+  * SecurityTrails
+  * ThreatMiner API
+  * Mnemonic
+  * Dossier
+* Find information about a domain at urlscan.io
+  * urlscan.io
+* Gets information about a domain
+  * Cymon
+* Lookup Domain info
+  * Censys
+* Queries ThreatCrowd for domain info
+  * ThreatCrowd
+* Query DNS about a domain
+  * DNSDB
+* Query DNS records for a Domain or Host Name
+  * DNS
+* Query ZETAlytics APIs for a domain name
+  * ZETAlytics
+* Returns the result of a lookup on a specific url
+  * MxToolbox
+* Searches for breaches associated with a domain
+  * Have I Been Pwned
+
+
+
+## lookup email
+_3 unique descriptions / Provided by 4 apps_
+
+* Queries ThreatCrowd for email info
+  * ThreatCrowd
+* Resolve an Alias name or email address, into mailboxes
+  * Microsoft Exchange On-Premise EWS
+  * EWS for Office 365
+* Searches for breaches associated with an email
+  * Have I Been Pwned
+
+
+
+## lookup hash
+_2 unique descriptions / Provided by 3 apps_
+
+* Check for the presence of a hash in a threat intelligence feed
+  * ThreatMiner API
+  * Dossier
+* Lookup MD5 Hash with McAfee Active Response
+  * McAfee OpenDXL
+
+
+
+## lookup instance
+_1 unique descriptions / Provided by 1 apps_
+
+* Return AWS EC2 instance information using IP address or Instance Id
+  * AWS Community App
+
+
+
+## lookup ip
+_19 unique descriptions / Provided by 24 apps_
+
+* Attempts a lookup of the hostname for the provided IP
+  * NetBIOS
+* Check for the presence of an IP in a threat intelligence feed
+  * IP Info
+  * Greynoise
+  * ThreatMiner API
+  * Neutrino API
+  * HoneyDB
+  * Dossier
+* Check if IP is a Tor exit node
+  * Tor
+* Checks Skybox for the existence of the IP among the model&#39;s assets
+  * Skybox
+* Find information about an IP address at urlscan.io
+  * urlscan.io
+* Get IP info from DShield
+  * DShield
+* Get endpoint details and flows of a specific IP
+  * Cisco Tetration Analytics
+* Lookup IP/CIDR info
+  * Tufin SecureTrack
+* Lookup ip info
+  * Censys
+* Lookup the categories related to an IP
+  * Zscaler
+* Lookup the categories related to the IP or list of IPs
+  * Forcepoint Web Security
+* Queries IP info
+  * AbuseIPDB
+* Queries RIPE for abuse counts associated with an IP
+  * RIPE
+* Queries ThreatCrowd for IP info
+  * ThreatCrowd
+* Query Reverse DNS records for an IP
+  * DNS
+* Query ZETAlytics APIs for an IP address
+  * ZETAlytics
+* Retrieve host based on IP address
+  * Vectra Active Enforcement
+* Returns the result of a lookup on a specific ip address
+  * MxToolbox
+* Reverse DNS lookup
+  * DNSDB
+
+
+
+## lookup mac
+_1 unique descriptions / Provided by 1 apps_
+
+* Query the Mac Vendor based on the OUI
+  * MAC Vendors
+
+
+
+## lookup nameserver
+_1 unique descriptions / Provided by 1 apps_
+
+* Get information for an authoritative nameserver
+  * ZETAlytics
+
+
+
+## lookup network
+_1 unique descriptions / Provided by 1 apps_
+
+* Get info about a WiFi SSID
+  * WiGLE
+
+
+
+## lookup ssl
+_1 unique descriptions / Provided by 1 apps_
+
+* Search SSL thumbprint
+  * ThreatMiner API
+
+
+
+## lookup url
+_7 unique descriptions / Provided by 8 apps_
+
+* Check for the presence of a url in a threat intelligence feed
+  * Cloaken
+  * Dossier
+* Check the url categorization and risk level
+  * McAfee TrustedSource
+* Expand bit.ly or goo.gl url
+  * URL Expander
+* Get the original URL from a shortened URL
+  * unshorten.me
+* Gets information about a URL
+  * Alexa
+* Lookup the categories related to a URL
+  * Zscaler
+* Lookup the categories related to the URL or list of URLs
+  * Forcepoint Web Security
+
+
+
+## manual query
+_1 unique descriptions / Provided by 1 apps_
+
+* Ask a Manual question without parsing
+  * Tanium
+
+
+
+## memory dump
+_1 unique descriptions / Provided by 1 apps_
+
+* Memory dump for a specified path
+  * Carbon Black Response
+
+
+
+## mitigate threat
+_1 unique descriptions / Provided by 1 apps_
+
+* Mitigate identified threat
+  * SentinelOne
+
+
+
+## modify label
+_1 unique descriptions / Provided by 1 apps_
+
+* Modify the properties of an existing label by ID
+  * Tanium Detect
+
+
+
+## move email
+_1 unique descriptions / Provided by 2 apps_
+
+* Move an email to a folder
+  * Microsoft Exchange On-Premise EWS
+  * EWS for Office 365
+
+
+
+## new entity note
+_1 unique descriptions / Provided by 1 apps_
+
+* Add a new note for the Entity
+  * ThreatX
+
+
+
+## no op
+_1 unique descriptions / Provided by 1 apps_
+
+* Wait for the specified number of seconds
+  * Phantom
+
+
+
+## notification status
+_1 unique descriptions / Provided by 1 apps_
+
+* Check the status of a notifcation
+  * AlertFind
+
+
+
+## offense details
+_1 unique descriptions / Provided by 1 apps_
+
+* Get details about an offense
+  * QRadar
+
+
+
+## on poll
+_31 unique descriptions / Provided by 52 apps_
+
+* Action handler for the ingest functionality
+  * EWS for Office 365
+  * Symantec Data Loss Prevention
+  * RedLock
+* Action to ingest endpoint related information
+  * NetWitness Endpoint
+* Action to ingest threats
+  * Cofense Intelligence
+* Callback action for the on_poll ingest functionality
+  * Cofense Triage
+  * Tanium Detect
+  * QRadar
+  * ThreatStream
+  * Generator
+  * IntSights
+  * EclecticIQ app
+  * JASK
+  * FortiSIEM
+  * Proofpoint TAP
+  * Digital Shadows
+  * RSA Archer
+  * Streaming API
+  * ThreatConnect
+  * ELSA (Security Onion)
+  * IMAP
+  * AWS GuardDuty
+* Callback action for the on_poll ingest functionality.
+  * FireEye
+  * McAfee ESM
+  * Soltra Edge
+  * iSight Partners
+* Callback action to ingest security feed items
+  * ZETAlytics
+* Create one empty event to kick off a playbook
+  * Timer
+* Ingest IOCs from an RSS Feed
+  * RSS
+* Ingest alarms from LogRhythm
+  * LogRhythm SIEM
+* Ingest alerts from the Attivo BOTsink
+  * Attivo
+* Ingest data to Phantom
+  * Netskope
+* Ingest data to phantom
+  * RedSeal
+* Ingest emails from the server into Phantom
+  * Microsoft Exchange On-Premise EWS
+* Ingest findings from Security Hub
+  * AWS Security Hub
+* Ingest from Preempt
+  * Preempt
+* Ingest incidents
+  * Symantec ATP
+* Ingest incidents from RSA Security Analytics
+  * RSA Security Analytics
+* Ingest latest tickets
+  * Ivanti ITSM
+* Ingest logs from the Splunk instance
+  * Splunk
+* Ingest messages from Kafka
+  * Kafka
+* Ingest reports
+  * DeepSight
+* Ingest scan data from InsightVM
+  * InsightVM
+* Ingest tickets from JIRA
+  * Jira
+* Ingest unacknowledged incidents from Canary
+  * Canary
+* Ingests unresolved alerts into Phantom
+  * Carbon Black Response
+* Poll for new Objects on Salesforce
+  * Salesforce
+* Query ProtectWise for Events and Observables and ingest into Phantom
+  * ProtectWise
+* Query device on a known interval
+  * Vectra Active Enforcement
+* Run a query in Starlight and ingest the results
+  * Aella Data Starlight
+* Run a query on Sumo Logic and ingest the results
+  * Sumo Logic
+* Start SlackBot and make health checks to it
+  * Slack
+
+
+
+## parse question
+_2 unique descriptions / Provided by 2 apps_
+
+* Parses the supplied text into a valid Tanium query string
+  * Tanium REST
+* Retrieves related questions to a possible Tanium question
+  * Tanium
+
+
+
+## patch data
+_1 unique descriptions / Provided by 1 apps_
+
+* Perform a REST PATCH call to the server
+  * HTTP
+
+
+
+## ping domain
+_1 unique descriptions / Provided by 1 apps_
+
+* Ping a domain
+  * HackerTarget
+
+
+
+## ping ip
+_1 unique descriptions / Provided by 1 apps_
+
+* Ping an ip
+  * HackerTarget
+
+
+
+## pivot action
+_1 unique descriptions / Provided by 1 apps_
+
+* Find domains connected by any supported Iris search parameter
+  * DomainTools Iris
+
+
+
+## post chatter
+_1 unique descriptions / Provided by 1 apps_
+
+* Post on the chatter feed for a specified case
+  * Salesforce
+
+
+
+## post data
+_5 unique descriptions / Provided by 5 apps_
+
+* Add data to the database
+  * MongoDB
+* Create an indicator and post it to ThreatConnect
+  * ThreatConnect
+* Perform a REST POST call to the server
+  * HTTP
+* Post data to Splunk
+  * Splunk
+* Post data to a Kafka topic
+  * Kafka
+
+
+
+## post hash
+_1 unique descriptions / Provided by 1 apps_
+
+* Push a MD5 Hash into the TIE Database
+  * McAfee OpenDXL
+
+
+
+## post ip
+_2 unique descriptions / Provided by 2 apps_
+
+* Push an event over the McAfee DXL fabric
+  * McAfee OpenDXL
+* Report an IP for abusive behavior
+  * AbuseIPDB
+
+
+
+## post rule
+_1 unique descriptions / Provided by 1 apps_
+
+* add a pass or drop rule to an existing map
+  * Gigamon Application for Phantom
+
+
+
+## put data
+_1 unique descriptions / Provided by 1 apps_
+
+* Perform a REST PUT call to the server
+  * HTTP
+
+
+
+## put device importance
+_1 unique descriptions / Provided by 1 apps_
+
+* Set the importance value of a device
+  * Interset AI
+
+
+
+## put file
+_1 unique descriptions / Provided by 1 apps_
+
+* Upload file to a Windows hostname
+  * Carbon Black Response
+
+
+
+## put file importance
+_1 unique descriptions / Provided by 1 apps_
+
+* Set the importance value of a file
+  * Interset AI
+
+
+
+## put importance
+_1 unique descriptions / Provided by 1 apps_
+
+* Set the importance value of an entity
+  * Interset AI
+
+
+
+## put project importance
+_1 unique descriptions / Provided by 1 apps_
+
+* Set the importance value of a project
+  * Interset AI
+
+
+
+## put user importance
+_1 unique descriptions / Provided by 1 apps_
+
+* Set the importance value of a user
+  * Interset AI
+
+
+
+## quarantine device
+_8 unique descriptions / Provided by 11 apps_
+
+* Block the device
+  * CrowdStrike OAuth API
+* Quarantine a device
+  * Mark II Server
+* Quarantine an endpoint
+  * Symantec ATP
+* Quarantine the device
+  * Windows Defender ATP
+  * Cisco ISE
+* Quarantine the endpoint
+  * Carbon Black Response
+  * SentinelOne
+  * Symantec Endpoint Protection 14
+* Quarantines a device using the Cybereason platform
+  * Cybereason
+* Request to contain the endpoint
+  * FireEye HX
+* Send the quarantine tag to the endpoint
+  * McAfee ePO
+
+
+
+## quarantine file
+_1 unique descriptions / Provided by 1 apps_
+
+* Quarantine a file
+  * Windows Defender ATP
+
+
+
+## quarantine instance
+_1 unique descriptions / Provided by 1 apps_
+
+* Quarantines AWS instance that has the given IP address
+  * AWS Community App
+
+
+
+## query certificate
+_1 unique descriptions / Provided by 1 apps_
+
+* Query the certificate dataset
+  * Censys
+
+
+
+## query d8s
+_1 unique descriptions / Provided by 1 apps_
+
+* Query the ZETAlytics D8s service
+  * ZETAlytics
+
+
+
+## query device
+_1 unique descriptions / Provided by 1 apps_
+
+* Fetch the device details based on the provided query
+  * CrowdStrike OAuth API
+
+
+
+## query domain
+_2 unique descriptions / Provided by 2 apps_
+
+* Query the domain dataset
+  * Censys
+* Search Shodan.io for discovered service info
+  * Shodan
+
+
+
+## query entities
+_1 unique descriptions / Provided by 1 apps_
+
+* Query EclecticIQ Platform for entities
+  * EclecticIQ app
+
+
+
+## query ip
+_2 unique descriptions / Provided by 2 apps_
+
+* Query the IP dataset
+  * Censys
+* Search Shodan.io for discovered service info
+  * Shodan
+
+
+
+## rate alert
+_1 unique descriptions / Provided by 1 apps_
+
+* Provides a rating for an Alert within IronDefense
+  * IronNet
+
+
+
+## reanalyze file
+_1 unique descriptions / Provided by 1 apps_
+
+* Reanalyze the file in the A1000 Advanced Malware Analysis Appliance
+  * RL A1000
+
+
+
+## reboot system
+_2 unique descriptions / Provided by 2 apps_
+
+* Reboot the endpoint (Requires root privileges)
+  * SSH
+* Reboots the system
+  * Tanium
+
+
+
+## recent domains
+_1 unique descriptions / Provided by 1 apps_
+
+* Search for new domains containing a word
+  * DomainTools
+
+
+
+## recipient status
+_1 unique descriptions / Provided by 1 apps_
+
+* Check the recipient status of a notification
+  * AlertFind
+
+
+
+## redeploy vm
+_1 unique descriptions / Provided by 1 apps_
+
+* Redeploy a virtual machine
+  * Microsoft Azure Compute
+
+
+
+## remove access
+_1 unique descriptions / Provided by 1 apps_
+
+* Removes EC2 Access for a given IAM user
+  * AWS Community App
+
+
+
+## remove acl
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove ACL from an instance. The default network ACL and ACLs associated with any subnets ...
+  * AWS EC2
+
+
+
+## remove collaborator
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove user as a collaborator from repo
+  * GitHub
+
+
+
+## remove endpoint
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove an agent in Empire
+  * Empire
+
+
+
+## remove file
+_1 unique descriptions / Provided by 1 apps_
+
+* Removes a file from a SharePoint Site
+  * SharePoint
+
+
+
+## remove groups
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove all the associations of the groups from the provided user
+  * Alibaba RAM
+
+
+
+## remove held account
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove held account from the given hold ID
+  * Google Vault
+
+
+
+## remove hosts
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove one or more hosts from the static host group
+  * CrowdStrike OAuth API
+
+
+
+## remove instance
+_1 unique descriptions / Provided by 1 apps_
+
+* Removes an EC2 instance from a security group
+  * AWS EC2
+
+
+
+## remove listitem
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove url/category from local database file
+  * Symantec Management Center
+
+
+
+## remove member
+_2 unique descriptions / Provided by 2 apps_
+
+* Remove a sender or domain from a Mimecast group
+  * Mimecast
+* Remove user from team
+  * GitHub
+
+
+
+## remove node
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove a node from a pool
+  * F5 BIG-IP LTM
+
+
+
+## remove policies
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove all the existing policies of the provided user
+  * Alibaba RAM
+
+
+
+## remove policy
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove managed policy association with the user
+  * AWS IAM
+
+
+
+## remove role
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove role from AWS IAM account
+  * AWS IAM
+
+
+
+## remove server
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove a server from an upstream
+  * NGINX
+
+
+
+## remove sg access
+_1 unique descriptions / Provided by 1 apps_
+
+* Removes Security Group Access for a given IAM user
+  * AWS Community App
+
+
+
+## remove sg ingress
+_1 unique descriptions / Provided by 1 apps_
+
+* Removes ingress rule from security group
+  * AWS Community App
+
+
+
+## remove tag
+_2 unique descriptions / Provided by 2 apps_
+
+* Remove a tag from the endpoint
+  * McAfee ePO
+* Remove specified tag from an instance
+  * AWS EC2
+
+
+
+## remove user
+_3 unique descriptions / Provided by 3 apps_
+
+* Remove a user from a specified group
+  * Azure AD Graph
+* Remove a user from the provided group
+  * Alibaba RAM
+* Remove user from a group
+  * AWS IAM
+
+
+
+## renew certificate
+_1 unique descriptions / Provided by 1 apps_
+
+* Requests immediate renewal for an existing certificate in Venafi
+  * Venafi
+
+
+
+## reopen matter
+_1 unique descriptions / Provided by 1 apps_
+
+* Reopens a matter to move it from CLOSED to OPEN state
+  * Google Vault
+
+
+
+## replace groups
+_1 unique descriptions / Provided by 1 apps_
+
+* Replace all the existing groups of the user with the provided groups
+  * Alibaba RAM
+
+
+
+## replace policies
+_1 unique descriptions / Provided by 1 apps_
+
+* Replace all the existing policies of the user or the group with the provided policies
+  * Alibaba RAM
+
+
+
+## report bad activity
+_1 unique descriptions / Provided by 1 apps_
+
+* Reports observed bad activity to IronDefense
+  * IronNet
+
+
+
+## reset password
+_3 unique descriptions / Provided by 3 apps_
+
+* Force the user to change the password at the next logon
+  * LDAP
+* Generate a one-time token that can be used to reset a user&#39;s password
+  * Okta
+* Reset or set a user&#39;s password in an Azure AD environment
+  * Azure AD Graph
+
+
+
+## reset session
+_1 unique descriptions / Provided by 1 apps_
+
+* Tell the server to reset the sensor &quot;sensor_wait_timeout&quot;
+  * Carbon Black Response
+
+
+
+## restart
+_1 unique descriptions / Provided by 1 apps_
+
+* Restarts Ixia vision one instance
+  * Ixia Network Packet Broker
+
+
+
+## restart device
+_1 unique descriptions / Provided by 1 apps_
+
+* Restart the configured device
+  * NetWitness Logs and Packets
+
+
+
+## restart service
+_1 unique descriptions / Provided by 1 apps_
+
+* DEPRECATED
+  * RSA Security Analytics
+
+
+
+## restart system
+_1 unique descriptions / Provided by 1 apps_
+
+* Restart a system
+  * Windows Remote Management
+
+
+
+## restore box
+_1 unique descriptions / Provided by 1 apps_
+
+* Restore JSON config to the Corelight box
+  * Corelight
+
+
+
+## restore matter
+_1 unique descriptions / Provided by 1 apps_
+
+* Restores a matter to move it from DELETED to CLOSED state
+  * Google Vault
+
+
+
+## reverse domain
+_3 unique descriptions / Provided by 3 apps_
+
+* Extract IPs from a single domain response for further pivoting
+  * DomainTools Iris
+* Find IPs that point to this domain and other domain names that share the same ...
+  * DomainTools
+* Find IPs that resolve to this domain
+  * HackerTarget
+
+
+
+## reverse email
+_3 unique descriptions / Provided by 3 apps_
+
+* Find domains with an email in their Whois record
+  * DomainTools
+* Find domains with email in Whois, DNS SOA or SSL certificate
+  * DomainTools Iris
+* Find domains with this email address in their Whois record or SOA email records
+  * ZETAlytics
+
+
+
+## reverse email domain
+_1 unique descriptions / Provided by 1 apps_
+
+* Return a list of domains registered with the given email domain
+  * ZETAlytics
+
+
+
+## reverse ip
+_3 unique descriptions / Provided by 4 apps_
+
+* Find domain names that share an IP
+  * ThreatMiner API
+  * DomainTools
+* Find domains that resolve to this ip
+  * HackerTarget
+* Find domains with web hosting IP, NS IP or MX IP
+  * DomainTools Iris
+
+
+
+## reverse nameserver
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a list of domains and hostnames for an authoritative nameserver
+  * ZETAlytics
+
+
+
+## revert vm
+_2 unique descriptions / Provided by 2 apps_
+
+* Revert VM to a named snapshot if name is specified, otherwise revert to the current ...
+  * vSphere
+* Revert VM to specified snapshot
+  * Nutanix Prism
+
+
+
+## revoke certificate
+_1 unique descriptions / Provided by 1 apps_
+
+* Requests to revoke an existing certificate in Venafi
+  * Venafi
+
+
+
+## run action
+_1 unique descriptions / Provided by 1 apps_
+
+* Trigger an ifttt action (via the Maker Channel)
+  * IFTTT - Maker Channel
+
+
+
+## run assessment
+_1 unique descriptions / Provided by 1 apps_
+
+* Start the assessment run specified by the assessment template ARN
+  * AWS Inspector
+
+
+
+## run command
+_3 unique descriptions / Provided by 3 apps_
+
+* Execute a command on the endpoint
+  * Windows Remote Management
+* Issue a Carbon Black Response command by providing the command name and the command&#39;s parameters ...
+  * Carbon Black Response
+* Run a command on the virtual machine
+  * Microsoft Azure Compute
+
+
+
+## run connector
+_1 unique descriptions / Provided by 1 apps_
+
+* Run a connector
+  * Kenna Security
+
+
+
+## run document
+_1 unique descriptions / Provided by 1 apps_
+
+* Runs command using a public or custom SSM Document on one or more managed instances
+  * AWS Systems Manager
+
+
+
+## run job
+_1 unique descriptions / Provided by 1 apps_
+
+* Launches an Ansible Tower job template.
+  * Ansible Tower
+
+
+
+## run pipeline
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute a pipeline on a particular branch of a project
+  * GitLab
+
+
+
+## run playbook
+_1 unique descriptions / Provided by 1 apps_
+
+* Run a preconfigured Playbook on the Attivo BOTsink
+  * Attivo
+
+
+
+## run query
+_36 unique descriptions / Provided by 43 apps_
+
+* Bring the findings as per the filters are applied
+  * AWS GuardDuty
+* Execute an ariel query on the QRadar device
+  * QRadar
+* Get emails across the Mimecast platform
+  * Mimecast
+* Invoke a search for process information
+  * Carbon Black ThreatHunter
+* Lookup the management events captured by CloudTrail
+  * AWS CloudTrail
+* Query ThreatQ and grab attributes
+  * ThreatQ
+* Retrieve integration results based on the specified hash (MD5 or SHA256) or URL. Specify only ...
+  * Cofense Triage
+* Run SSL Labs analysis of a host
+  * SSL Labs
+* Run a Query
+  * Big Query
+* Run a named query on Athena
+  * AWS Athena
+* Run a query against ELSA
+  * ELSA (Security Onion)
+* Run a query against a table or tables in the database
+  * MySQL
+  * SQLite
+  * PostgreSQL
+  * Microsoft Azure SQL
+  * Microsoft SQL Server
+* Run a query on InfluxDB
+  * InfluxDB
+* Run a query on Panorama
+  * Panorama
+* Run a query to create a PCAP
+  * Endace
+* Run a query to find events or attributes
+  * MISP
+* Run a query using the SalesforceObject Query Language
+  * Salesforce
+* Run a saved or parsed question
+  * Tanium
+* Run a search query on the CRITs device
+  * CRITs
+* Run a search query on the Elasticsearch installation. Please escape any quotes that are part ...
+  * Elasticsearch
+* Run a search query on the Splunk device. Please escape any quotes that are part ...
+  * Splunk
+* Run a search query on the device
+  * Carbon Black Response
+* Run a search query on the devices registered on the Tanium server
+  * Tanium REST
+* Run an arbitrary query using WQL on the system
+  * WMI
+* Run observables query in ThreatStream
+  * ThreatStream
+* Run query for events on a given IP
+  * Netskope
+* Run query for searching ticket
+  * OTRS
+* Run query on forensic search
+  * Code42
+* Run query on vulnerabilities
+  * Kenna Security
+* Runs a search query on the Sumo Logic platform
+  * Sumo Logic
+* Search emails
+  * Microsoft Exchange On-Premise EWS
+  * EWS for Office 365
+  * MS Graph for Office 365
+* Search emails with query/filtering options
+  * G Suite for GMail
+* Search for a text in resources
+  * ArcSight ESM
+  * Ivanti ITSM
+* Search tickets
+  * Zendesk
+* Search tweets for specific text within the past 7 days
+  * Twitter
+* Submit a query to fetch security impact, access details and threat details between two endpoints
+  * RedSeal
+
+
+
+## run script
+_1 unique descriptions / Provided by 1 apps_
+
+* Run a PowerShell script on the endpoint
+  * Windows Remote Management
+
+
+
+## run sim
+_1 unique descriptions / Provided by 1 apps_
+
+* Run a simulation
+  * Verodin
+
+
+
+## run_job
+_1 unique descriptions / Provided by 1 apps_
+
+* Run a job
+  * Verodin
+
+
+
+## save data
+_1 unique descriptions / Provided by 1 apps_
+
+* Save the given data in an action result
+  * Save Data
+
+
+
+## save file
+_1 unique descriptions / Provided by 1 apps_
+
+* Save a file from a remote connection to Tanium Threat Response
+  * Tanium Threat Response
+
+
+
+## save report
+_1 unique descriptions / Provided by 1 apps_
+
+* Save a PDF of the detonation report to the Vault.
+  * WildFire
+
+
+
+## scan and remediate
+_1 unique descriptions / Provided by 1 apps_
+
+* Scan an endpoint and remediate threats found
+  * Malwarebytes Cloud
+
+
+
+## scan and report
+_1 unique descriptions / Provided by 1 apps_
+
+* Scan an endpoint and report threats found
+  * Malwarebytes Cloud
+
+
+
+## scan device
+_1 unique descriptions / Provided by 1 apps_
+
+* Scan a device for virus
+  * Windows Defender ATP
+
+
+
+## scan endpoint
+_5 unique descriptions / Provided by 6 apps_
+
+* Initiates a Cyber Triage collection on a remote endpoint
+  * Cyber Triage
+* Runs a scan against a specified IP or host.
+  * SecurityCenter
+* Scan an endpoint
+  * Symantec Endpoint Protection 14
+  * NetWitness Endpoint
+* Scan an endpoint for dormant threats
+  * SentinelOne
+* Scans a host using the selected scan policy ID
+  * Nessus
+
+
+
+## scan network
+_1 unique descriptions / Provided by 1 apps_
+
+* Execute NMAP scan against a host or subnet
+  * NMAP Scanner
+
+
+
+## scan report
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieve URL scan results against a previous Scan request
+  * SlashNext Phishing Incident Response
+
+
+
+## scan url
+_1 unique descriptions / Provided by 1 apps_
+
+* Initiate a scan on a project that has already been scanned
+  * Tala
+
+
+
+## search keyword
+_1 unique descriptions / Provided by 1 apps_
+
+* Search for domain names containing a keyword
+  * ZETAlytics
+
+
+
+## search task
+_1 unique descriptions / Provided by 1 apps_
+
+* Search Task
+  * TheHive
+
+
+
+## search terms
+_1 unique descriptions / Provided by 1 apps_
+
+* Search for samples in Falcon Sandbox database using search terms
+  * Falcon Sandbox
+
+
+
+## search ticket
+_1 unique descriptions / Provided by 1 apps_
+
+* Search Ticket
+  * TheHive
+
+
+
+## search vms
+_1 unique descriptions / Provided by 1 apps_
+
+* Query VM&#39;s based on string
+  * Nutanix Prism
+
+
+
+## send email
+_1 unique descriptions / Provided by 1 apps_
+
+* Sends an email
+  * SMTP
+
+
+
+## send message
+_8 unique descriptions / Provided by 9 apps_
+
+* Send Message to user or room
+  * Cisco Spark
+* Send an SMS Text
+  * ClickSend
+  * Twilio
+* Send and SMS message via send_sms_message IFTTT Maker Channel event
+  * IFTTT - Maker Channel
+* Send message to HipChat user
+  * HipChat
+* Send message to Slack
+  * Slack
+* Send message to a channel
+  * Mattermost
+* Send message to a channel of a group
+  * Microsoft Teams
+* Send message to a contact
+  * Skype for Business
+
+
+
+## send notification
+_1 unique descriptions / Provided by 1 apps_
+
+* Send notifcation to AlertFind
+  * AlertFind
+
+
+
+## set alert status
+_1 unique descriptions / Provided by 1 apps_
+
+* Sets the status of an Alert within IronDefense
+  * IronNet
+
+
+
+## set mode
+_1 unique descriptions / Provided by 1 apps_
+
+* Set GPIO Mode
+  * BerryIO
+
+
+
+## set password
+_2 unique descriptions / Provided by 2 apps_
+
+* Set the password of a user
+  * LDAP
+* Set the password of a user without validating existing credentials
+  * Okta
+
+
+
+## set quarantine approved
+_1 unique descriptions / Provided by 1 apps_
+
+* Approve containment request for host
+  * FireEye HX
+
+
+
+## set status
+_3 unique descriptions / Provided by 3 apps_
+
+* Set incident status
+  * BMC Remedy
+* Set the state of a detection in Falcon Host
+  * Falcon Host API
+* Set ticket (issue) status
+  * Jira
+
+
+
+## set system attribute
+_1 unique descriptions / Provided by 1 apps_
+
+* Set the value of an attribute of a computer/system
+  * LDAP
+
+
+
+## set user attribute
+_1 unique descriptions / Provided by 1 apps_
+
+* Set an attribute for a user
+  * Azure AD Graph
+
+
+
+## set value
+_1 unique descriptions / Provided by 1 apps_
+
+* Set GPIO Value
+  * BerryIO
+
+
+
+## shutdown system
+_2 unique descriptions / Provided by 2 apps_
+
+* Shutdown a system
+  * Windows Remote Management
+* Shutdown the endpoint(Requires root privileges)
+  * SSH
+
+
+
+## snapshot instance
+_2 unique descriptions / Provided by 2 apps_
+
+* Snapshot AWS instance that has the given IP address
+  * AWS Community App
+* Snapshot AWS instance that has the given IP address or instance ID
+  * AWS EC2
+
+
+
+## snapshot vm
+_1 unique descriptions / Provided by 3 apps_
+
+* Take a snapshot of the VM
+  * Nutanix Prism
+  * vSphere
+  * Microsoft Azure Compute
+
+
+
+## snapshot volumes
+_1 unique descriptions / Provided by 1 apps_
+
+* Snapshots all volumes attached to the instance
+  * AWS Community App 2
+
+
+
+## start acquisition
+_1 unique descriptions / Provided by 1 apps_
+
+* Request a file to be acquired into FireEye HX
+  * FireEye HX
+
+
+
+## start instance
+_1 unique descriptions / Provided by 1 apps_
+
+* Start EC2 instance
+  * AWS Community App
+
+
+
+## start vm
+_1 unique descriptions / Provided by 3 apps_
+
+* Start a stopped or suspended VM
+  * Nutanix Prism
+  * vSphere
+  * Microsoft Azure Compute
+
+
+
+## stop bot
+_1 unique descriptions / Provided by 1 apps_
+
+* Stop SlackBot
+  * Slack
+
+
+
+## stop instance
+_1 unique descriptions / Provided by 1 apps_
+
+* Stop EC2 instance
+  * AWS Community App
+
+
+
+## stop vm
+_1 unique descriptions / Provided by 3 apps_
+
+* Stop a VM
+  * Nutanix Prism
+  * vSphere
+  * Microsoft Azure Compute
+
+
+
+## submit report
+_1 unique descriptions / Provided by 1 apps_
+
+* Submit report to TruSTAR
+  * TruSTAR
+
+
+
+## suspend vm
+_2 unique descriptions / Provided by 2 apps_
+
+* Suspend a VM
+  * vSphere
+* Suspend a VM (Requires guest tools installed on vm)
+  * Nutanix Prism
+
+
+
+## sync events
+_1 unique descriptions / Provided by 1 apps_
+
+* Force a sensor to sync all queued events to the server
+  * Carbon Black Response
+
+
+
+## sync list
+_1 unique descriptions / Provided by 1 apps_
+
+* Retrieves changes from list
+  * SharePoint
+
+
+
+## synchronize projects
+_1 unique descriptions / Provided by 1 apps_
+
+* Synchronize projects to return a newer policy, which will be added to the vault
+  * Tala
+
+
+
+## tag device
+_1 unique descriptions / Provided by 1 apps_
+
+* Tag an existing device on the ExtraHop
+  * ExtraHop
+
+
+
+## tag observable
+_1 unique descriptions / Provided by 1 apps_
+
+* Add a tag to the observable
+  * ThreatStream
+
+
+
+## takedown request
+_1 unique descriptions / Provided by 1 apps_
+
+* Initiate a takedown request of an alert from the IntSights dashboard
+  * IntSights
+
+
+
+## terminate endpoint
+_1 unique descriptions / Provided by 1 apps_
+
+* Kill an agent on an endpoint in Empire
+  * Empire
+
+
+
+## terminate process
+_5 unique descriptions / Provided by 6 apps_
+
+* Kill a Process
+  * Endgame
+* Kill a running process of the devices registered on the Tanium server
+  * Tanium REST
+* Kill running processes on a machine
+  * Carbon Black Response
+* Terminate a process
+  * Windows Remote Management
+  * Tanium
+* Terminate a process (Requires root privileges)
+  * SSH
+
+
+
+## terminate server
+_1 unique descriptions / Provided by 1 apps_
+
+* Kill a listener in Empire
+  * Empire
+
+
+
+## terminate session
+_2 unique descriptions / Provided by 2 apps_
+
+* Terminate sessions
+  * Cisco ISE
+* Terminates all VPN sessions of a user
+  * Cisco ASA
+
+
+
+## test connectivity
+_68 unique descriptions / Provided by 291 apps_
+
+* Checks API Key with Google Safe Browsing
+  * Safe Browsing
+* Checks authentication with the AlertFind instance
+  * AlertFind
+* Checks authentication with the InsightVM instance
+  * InsightVM
+* Checks connectivity with configured hosts
+  * Kafka
+* Checks connectivity with the configured Malware Analysis Service instance using either the API key, or ...
+  * Malware Analysis Service
+* Run a query on the device to test connection and credentials
+  * ServiceNow
+* Run a quick query on the server to check the connection and credentials
+  * xMatters
+* Test TrustedSource communication
+  * McAfee TrustedSource
+* Test connection to PagerDuty to validate supplied API key
+  * PagerDuty
+* Test connectivity to ThreatStream by querying the intelligence endpoint
+  * ThreatStream
+* Tests authorization with Slack
+  * Slack
+* Tests connectivity to Cymon
+  * Cymon
+* This action connects to the server to verify the connection
+  * Lastline
+* This action connects to the server to verify the connection.
+  * Cyphort
+* This action runs a lookup ip action to test connection
+  * NetBIOS
+* This action runs a quick query on the server to check the connection and credentials
+  * Proofpoint TAP
+* Use supplied credentials to generate a token with MS Graph
+  * MS Graph for Office 365
+  * Azure AD Graph
+* Validate API Key with Pipl server
+  * Pipl
+* Validate connection to the Digital Shadows API
+  * Digital Shadows
+* Validate connection using the configured credentials
+  * Salesforce
+  * HTTP
+* Validate connectivity to Censys
+  * Censys
+* Validate connectivity to McAfee ePO
+  * McAfee ePO
+* Validate credentials provided for connectivity
+  * Cisco Tetration Analytics
+  * Symantec ATP
+  * TruSTAR
+  * CloudPassage Halo
+  * Tufin SecureTrack
+  * Symantec Endpoint Protection 14
+  * Infoblox DDI
+  * Cisco ESA
+  * Git
+  * NetWitness Endpoint
+* Validate the API Token by attempting to connect to the Device URL. This action runs ...
+  * Carbon Black Protection (Bit9)
+* Validate the asset configuration by attempting to connect and getting the version of the API ...
+  * FireAMP
+* Validate the asset configuration by attempting to connect. This action runs a quick query on ...
+  * Carbon Black Response
+* Validate the asset configuration for DXL connectivity.
+  * McAfee OpenDXL
+* Validate the asset configuration for connectivity
+  * Cofense Intelligence
+  * FortiGate
+  * EWS for Office 365
+  * Recorded Future
+  * Palo Alto Networks Firewall
+  * DNS
+  * VirusTotal
+  * DomainTools Iris
+  * IntSights
+  * AWS Community App 2
+  * RL TitaniumCloud File Reputation
+  * Interset AI
+  * Falcon Sandbox
+  * ClickSend
+  * Cyware
+  * Cisco Firepower
+  * Gigamon Application for Phantom
+  * F5 BIG-IP
+  * VMRay
+  * OpenStack
+  * Cisco Meraki Dashboard
+  * Cisco Router BGP RTBH
+  * A10 LADS
+  * Verodin
+  * DomainTools
+  * Phantom
+  * DShield
+  * FireSIGHT
+  * Falcon Host API
+  * ProtectWise
+  * MISP
+  * OpenDNS Investigate
+  * DeepSight
+  * Myip
+  * MAC Vendors
+  * Symantec CAS
+  * ThreatConnect
+  * ELSA (Security Onion)
+  * Screenshot Machine
+  * Symantec Security Analytics
+  * G Suite for GMail
+  * Symantec Data Loss Prevention
+  * PassiveTotal
+  * WiGLE
+  * Check Point Firewall
+  * Panorama
+  * HoneyDB
+  * Phishing Initiative
+  * DNSDB
+  * ReversingLabs
+* Validate the asset configuration for connectivity and authentication using supplied configuration
+  * SlashNext Phishing Incident Response
+* Validate the asset configuration for connectivity and field mapping
+  * RSA Archer
+* Validate the asset configuration for connectivity by attempting to log into the device
+  * RL TitaniumScale Enterprise File Visibility
+  * RL A1000
+* Validate the asset configuration for connectivity using supplied configuration
+  * Tanium REST
+  * Tanium Threat Response
+  * Microsoft Exchange On-Premise EWS
+  * Tanium Detect
+  * Skybox
+  * Zscaler
+  * GitLab
+  * Cisco Threat Response
+  * IronNet
+  * Code42
+  * Microsoft OneDrive
+  * Forcepoint Web Security
+  * DarkPoint
+  * MySQL
+  * Malwarebytes Cloud
+  * Twitter
+  * IP Info
+  * Kaspersky Threat Intelligence
+  * Cloaken
+  * Carbon Black ThreatHunter
+  * ThreatX
+  * Skype for Business
+  * AWS Community App
+  * Attivo
+  * Nutanix Prism
+  * ShadowDragon SocialNet
+  * RedSeal
+  * Greynoise
+  * ThreatMiner API
+  * SharePoint
+  * JASK
+  * Axonius Cybersecurity Asset Management
+  * FortiSIEM
+  * ZETAlytics
+  * Forcepoint Firewall
+  * FireEye HX
+  * Risk Fabric
+  * Cybereason
+  * Mark II Server
+  * ExtraHop
+  * Endace
+  * McAfee Network Security Manager
+  * InfluxDB
+  * Cyber Triage
+  * NSX
+  * Neutrino API
+  * Windows Remote Management
+  * Cuckoo
+  * GitHub
+  * AWS Security Hub
+  * HipChat
+  * Endgame
+  * SQLite
+  * G Suite for Drive
+  * AWS S3
+  * Microsoft Azure Compute
+  * Tanium
+  * Google Vault
+  * SentinelOne
+  * AWS Athena
+  * Big Query
+  * Preempt
+  * Okta
+  * RSS
+  * Empire
+  * Netskope
+  * Arbor APS
+  * ipstack
+  * Alibaba RAM
+  * Microsoft SCCM
+  * MalShare
+  * AbuseIPDB
+  * APIvoid
+  * Mattermost
+  * AWS IAM
+  * Kenna Security
+  * Cisco Spark
+  * PostgreSQL
+  * GRR Rapid Response
+  * Tala
+  * Microsoft SCOM
+  * Microsoft Azure SQL
+  * NGINX
+  * Koodous
+  * AWS WAF
+  * LogRhythm SIEM
+  * RIPE
+  * Timer
+  * Twilio
+  * AWS EC2
+  * BigFix
+  * Ivanti ITSM
+  * Microsoft Teams
+  * ForeScout CounterACT
+  * VictorOps
+  * AWS Inspector
+  * AlienVault OTX
+  * Joe Sandbox v2
+  * AWS Lambda
+  * Mimecast
+  * RedLock
+  * TheHive
+  * Microsoft SQL Server
+  * PhishLabs
+  * KnowThyCustomer
+  * Cherwell
+  * Venafi
+  * Mnemonic
+  * Watson - Language Translator
+  * AWS Systems Manager
+  * AWS GuardDuty
+  * MongoDB
+  * Moloch
+  * urlscan.io
+  * Canary
+  * Dossier
+  * McAfee Advanced Threat Defense (ATD)
+* Validate the asset configuration for connectivity using supplied configuration parameters
+  * Ixia Network Packet Broker
+* Validate the asset configuration for connectivity using supplied configuration.
+  * isitPhishing
+* Validate the asset configuration for connectivity using supplied credentials
+  * OSXCollector
+  * BMC Remedy
+  * Jira
+* Validate the asset configuration for connectivity using supplied credentials.
+  * OTRS
+* Validate the asset configuration for connectivity using the supplied configuration
+  * Cofense Triage
+  * F5 BIG-IP LTM
+  * Windows Defender ATP
+  * Symantec Management Center
+  * PasteBin
+  * Corelight
+  * PolySwarm
+  * Vectra Active Enforcement
+  * Intezer Analyze
+  * EclecticIQ app
+  * SecurityTrails
+  * AWS CloudTrail
+  * Confluence
+  * CylancePROTECT
+* Validate the asset configuration for connectivity.
+  * URL Expander
+  * SonicWALL
+  * Cymmetria MazeRunner
+  * IFTTT - Maker Channel
+  * Floodlight SDN
+  * ThreatQ
+  * Ansible Tower
+  * Shodan
+  * OpenDNS Umbrella
+  * iSight Partners
+  * SecurityCenter
+* Validate the asset configuration for connectivity. This action login to the device to check the ...
+  * Apresia 26000 series
+* Validate the asset configuration for connectivity. This action logs into the device and sends a ...
+  * SMTP
+* Validate the asset configuration for connectivity. This action logs into the device to check the ...
+  * Splunk
+  * Aella Data Starlight
+  * Blue Coat
+  * FireEye
+  * vSphere
+  * WildFire
+  * Threat Grid
+  * Elasticsearch
+  * LDAP
+  * CRITs
+  * Malwr
+  * BerryIO
+* Validate the asset configuration for connectivity. This action logs into the device using a REST ...
+  * Cisco ISE
+* Validate the asset configuration for connectivity. This action logs into the site to check the ...
+  * Streaming API
+  * CrowdStrike OAuth API
+* Validate the asset configuration for connectivity. This action makes a request to the service to ...
+  * URLVoid
+* Validate the asset configuration for connectivity. This action runs a few commands on the device ...
+  * TiFRONT
+  * Cisco Catalyst
+  * Cisco ASA
+* Validate the asset configuration for connectivity. This action runs a quick query on the device ...
+  * QRadar
+  * Zendesk
+  * SSL Labs
+  * Request Tracker
+  * MobileIron
+* Validate the asset configuration for connectivity. This action runs a quick query on the server ...
+  * ArcSight ESM
+  * IMAP
+  * unshorten.me
+* Validate the asset configuration for connectivity. This action tries to login to the device to ...
+  * Juniper SRX
+* Validate the asset configuration for connectivity. This action validates the feed name on Soltra Edge ...
+  * Soltra Edge
+* Validate the asset configuration using api tokens
+  * Nessus
+* Validate the credentials provided for connectivity
+  * RSA Security Analytics
+  * NetWitness Logs and Packets
+* Validate the supplied API Key
+  * Carbon Black Defense
+* Validate the supplied credentials with the SMG server
+  * Symantec Messaging Gateway
+* Validates asset configuration for connectivity
+  * Alexa
+* Validates connectivity by retrieving a valid SessionID
+  * RemedyForce
+* Validates connectivity to AutoFocus
+  * AutoFocus
+* Validates connectivity to CriticalStack
+  * CriticalStack Intel
+* Validates connectivity to CylancePROTECT
+  * Cylance
+* Validates connectivity to XForce
+  * IBM XForce
+* Validates connectivity to the Imperva SecureSphere Management Server
+  * SecureSphere WAF
+* Validates endpoint connection
+  * SSH
+* Validates the asset configuration for connectivity
+  * MxToolbox
+* Validates the asset configuration for connectivity.
+  * Metadefender
+* Validates the connection to the Tor Project website
+  * Tor
+* Validates the connectivity by querying PhishTank
+  * PhishTank
+* Validates the credentials
+  * McAfee ESM
+* Verifies connectivity with the Malware Domain List website
+  * Malware Domain List
+* validate the asset configuration for connectivity
+  * Sumo Logic
+
+
+
+## trace route
+_1 unique descriptions / Provided by 1 apps_
+
+* Check connectivity between source and destination network
+  * Tufin SecureTrack
+
+
+
+## traceroute domain
+_1 unique descriptions / Provided by 1 apps_
+
+* Traceroute to a domain
+  * HackerTarget
+
+
+
+## traceroute ip
+_1 unique descriptions / Provided by 1 apps_
+
+* Traceroute to an ip
+  * HackerTarget
+
+
+
+## translate text
+_1 unique descriptions / Provided by 1 apps_
+
+* Translate text from one language to another
+  * Watson - Language Translator
+
+
+
+## unarchive finding
+_1 unique descriptions / Provided by 1 apps_
+
+* Unarchives Amazon GuardDuty findings specified by the detector ID and list of finding IDs
+  * AWS GuardDuty
+
+
+
+## unarchive findings
+_1 unique descriptions / Provided by 1 apps_
+
+* Unarchive the AWS Security Hub aggregated findings specified by the filter attributes
+  * AWS Security Hub
+
+
+
+## unassign role
+_1 unique descriptions / Provided by 1 apps_
+
+* Unassign a role to a user
+  * Okta
+
+
+
+## unblacklist domain
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove a domain from the bad sender list
+  * Symantec Messaging Gateway
+
+
+
+## unblacklist email
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove an email from the bad sender list
+  * Symantec Messaging Gateway
+
+
+
+## unblacklist ip
+_3 unique descriptions / Provided by 3 apps_
+
+* Remove an IP from the bad sender list
+  * Symantec Messaging Gateway
+* Remove an IP from the outbound Blacklist
+  * Arbor APS
+* Unblock an IP
+  * Zscaler
+
+
+
+## unblacklist url
+_2 unique descriptions / Provided by 2 apps_
+
+* Removes url from a managed URL blacklist
+  * Mimecast
+* Unblock a URL
+  * Zscaler
+
+
+
+## unblock application
+_1 unique descriptions / Provided by 3 apps_
+
+* Unblock an application
+  * Palo Alto Networks Firewall
+  * Juniper SRX
+  * Panorama
+
+
+
+## unblock arp
+_1 unique descriptions / Provided by 1 apps_
+
+* Unblock ARP packets sourced from this MAC.
+  * Floodlight SDN
+
+
+
+## unblock device
+_1 unique descriptions / Provided by 1 apps_
+
+* Unblock a device
+  * Code42
+
+
+
+## unblock domain
+_2 unique descriptions / Provided by 2 apps_
+
+* Unblock a domain
+  * OpenDNS Umbrella
+* Unblock domain
+  * Infoblox DDI
+
+
+
+## unblock flow
+_1 unique descriptions / Provided by 1 apps_
+
+* Unblock network traffic matching flow parameters.
+  * Floodlight SDN
+
+
+
+## unblock hash
+_5 unique descriptions / Provided by 6 apps_
+
+* Remove a hash from the Global Quarantine list (and place it into the Unassigned list). ...
+  * Cylance
+* Unblock a file hash
+  * CylancePROTECT
+* Unblock hashes on endpoints
+  * Symantec Endpoint Protection 14
+* Unblock the hash
+  * Carbon Black Response
+  * SentinelOne
+* Unblocks a particular hash
+  * Carbon Black Protection (Bit9)
+
+
+
+## unblock ip
+_13 unique descriptions / Provided by 21 apps_
+
+* Deletes the rule which blocks an IP address
+  * F5 BIG-IP
+* Remove an IP from the outbound Blacklist
+  * Arbor APS
+* Removes the rule blocking the IP address or network
+  * A10 LADS
+* Unblock IP
+  * Infoblox DDI
+* Unblock IP or list of IPs by removing them from the supplied category
+  * Forcepoint Web Security
+* Unblock an IP
+  * FortiGate
+  * Zscaler
+  * Palo Alto Networks Firewall
+  * ThreatX
+  * McAfee Network Security Manager
+  * TiFRONT
+  * Cisco ASA
+  * Panorama
+* Unblock an IP address or network.
+  * SecureSphere WAF
+* Unblock an IP.
+  * Juniper SRX
+* Unblock an IP/subnet
+  * Check Point Firewall
+* Unblock an ip
+  * SonicWALL
+  * Apresia 26000 series
+* Unblocks an IP
+  * Cisco Router BGP RTBH
+* Unblocks an IP network
+  * Cisco Firepower
+* Unblocks traffic to/from the matching IP
+  * Floodlight SDN
+
+
+
+## unblock mac address
+_1 unique descriptions / Provided by 1 apps_
+
+* Unblocks traffic to/from the matching MAC.
+  * Floodlight SDN
+
+
+
+## unblock network
+_1 unique descriptions / Provided by 1 apps_
+
+* Unblocks an IP network
+  * Cisco Router BGP RTBH
+
+
+
+## unblock sender
+_1 unique descriptions / Provided by 1 apps_
+
+* Remove the sender email from the block list
+  * EWS for Office 365
+
+
+
+## unblock service
+_1 unique descriptions / Provided by 1 apps_
+
+* Unblock a network service
+  * SonicWALL
+
+
+
+## unblock subnet
+_1 unique descriptions / Provided by 1 apps_
+
+* Unblocks traffic to/from the matching IP subnet.
+  * Floodlight SDN
+
+
+
+## unblock url
+_3 unique descriptions / Provided by 6 apps_
+
+* Unblock URL or list of URLs by removing them from the supplied category
+  * Forcepoint Web Security
+* Unblock a URL
+  * Zscaler
+* Unblock an URL
+  * Palo Alto Networks Firewall
+  * SonicWALL
+  * Blue Coat
+  * Panorama
+
+
+
+## unlock device
+_2 unique descriptions / Provided by 2 apps_
+
+* Deactivate an access lock on a specified device
+  * Code42
+* Unlock the device
+  * MobileIron
+
+
+
+## unquarantine device
+_7 unique descriptions / Provided by 10 apps_
+
+* Containment cancellation for host
+  * FireEye HX
+* Remove the quarantine tag on the endpoint
+  * McAfee ePO
+* Un-quarantines a device using the Cybereason platform
+  * Cybereason
+* Unblock the device
+  * CrowdStrike OAuth API
+* Unquarantine an endpoint
+  * Symantec ATP
+* Unquarantine the device
+  * Windows Defender ATP
+  * Cisco ISE
+* Unquarantine the endpoint
+  * Carbon Black Response
+  * SentinelOne
+  * Symantec Endpoint Protection 14
+
+
+
+## unwatch user
+_1 unique descriptions / Provided by 1 apps_
+
+* Stop watching a user
+  * Preempt
+
+
+
+## unwhitelist ip
+_2 unique descriptions / Provided by 2 apps_
+
+* Remove an IP address from the whitelist
+  * Zscaler
+* Remove an IP from the outbound Whitelist
+  * Arbor APS
+
+
+
+## unwhitelist url
+_2 unique descriptions / Provided by 2 apps_
+
+* Remove a URL from the whitelist
+  * Zscaler
+* Removes url from a managed URL whitelist
+  * Mimecast
+
+
+
+## update alarm
+_1 unique descriptions / Provided by 1 apps_
+
+* Update an alarm
+  * LogRhythm SIEM
+
+
+
+## update alert
+_1 unique descriptions / Provided by 1 apps_
+
+* Update an indicator that has been uploaded
+  * Falcon Host API
+
+
+
+## update bucket
+_1 unique descriptions / Provided by 1 apps_
+
+* Update a bucket
+  * AWS S3
+
+
+
+## update data
+_1 unique descriptions / Provided by 1 apps_
+
+* Update documents which match a given filter
+  * MongoDB
+
+
+
+## update device
+_2 unique descriptions / Provided by 2 apps_
+
+* Change the policy of a device conntected to CB Defense
+  * Carbon Black Defense
+* Update device information
+  * Kenna Security
+
+
+
+## update email
+_1 unique descriptions / Provided by 2 apps_
+
+* Update an email on the server
+  * Microsoft Exchange On-Premise EWS
+  * EWS for Office 365
+
+
+
+## update event
+_3 unique descriptions / Provided by 3 apps_
+
+* Add attributes / IOCs to an event in MISP
+  * MISP
+* Update a notable event
+  * Splunk
+* Update the status of an event
+  * xMatters
+
+
+
+## update file
+_1 unique descriptions / Provided by 1 apps_
+
+* Update (overwrite) contents of a file in the working directory
+  * Git
+
+
+
+## update finding
+_1 unique descriptions / Provided by 1 apps_
+
+* Updates specified Amazon GuardDuty findings as useful or not useful
+  * AWS GuardDuty
+
+
+
+## update incident
+_4 unique descriptions / Provided by 4 apps_
+
+* Acknowledge existing Canary incident
+  * Canary
+* Update an incident in ThreatStream by ID number
+  * ThreatStream
+* Update the incident state and/or add a comment to the incident
+  * Preempt
+* Update timeline of existing incident in VictorOps
+  * VictorOps
+
+
+
+## update ip
+_1 unique descriptions / Provided by 1 apps_
+
+* Update the IP address criteria of a filter
+  * Ixia Network Packet Broker
+
+
+
+## update issue
+_1 unique descriptions / Provided by 1 apps_
+
+* Update an issue for the GitHub repository
+  * GitHub
+
+
+
+## update list
+_2 unique descriptions / Provided by 2 apps_
+
+* Update a list
+  * Phantom
+* Update a list by adding, deleting, or deleting all values from it
+  * ForeScout CounterACT
+
+
+
+## update mac
+_1 unique descriptions / Provided by 1 apps_
+
+* Update the mac address criteria for a filter
+  * Ixia Network Packet Broker
+
+
+
+## update mode
+_1 unique descriptions / Provided by 1 apps_
+
+* Update the mode of a filter
+  * Ixia Network Packet Broker
+
+
+
+## update notification
+_1 unique descriptions / Provided by 1 apps_
+
+* Update the state of one notification by ID
+  * Tanium Detect
+
+
+
+## update object
+_1 unique descriptions / Provided by 2 apps_
+
+* Update an object
+  * Salesforce
+  * AWS S3
+
+
+
+## update offense
+_1 unique descriptions / Provided by 1 apps_
+
+* Attach a note to an offense
+  * QRadar
+
+
+
+## update operator
+_1 unique descriptions / Provided by 1 apps_
+
+* Update the operator of a filter
+  * Ixia Network Packet Broker
+
+
+
+## update port
+_1 unique descriptions / Provided by 1 apps_
+
+* Update the port criteria of a filter
+  * Ixia Network Packet Broker
+
+
+
+## update project
+_1 unique descriptions / Provided by 1 apps_
+
+* Update an existing project
+  * Tala
+
+
+
+## update property
+_1 unique descriptions / Provided by 1 apps_
+
+* Update a property of a host
+  * ForeScout CounterACT
+
+
+
+## update resource
+_1 unique descriptions / Provided by 1 apps_
+
+* Update a specified resource
+  * CRITs
+
+
+
+## update state
+_1 unique descriptions / Provided by 1 apps_
+
+* Update the state of an alert
+  * Tanium Detect
+
+
+
+## update status
+_1 unique descriptions / Provided by 1 apps_
+
+* Change Indicator Status in ThreatQ
+  * ThreatQ
+
+
+
+## update task
+_1 unique descriptions / Provided by 1 apps_
+
+* Update the task
+  * TheHive
+
+
+
+## update ticket
+_11 unique descriptions / Provided by 13 apps_
+
+* Attach a note to a ticket (incident)
+  * RemedyForce
+* Update a Case
+  * Salesforce
+* Update a case on ArcSight
+  * ArcSight ESM
+* Update a ticket
+  * OTRS
+  * Ivanti ITSM
+* Update an existing incident
+  * BMC Remedy
+* Update an incident
+  * Cherwell
+* Update the value of a field of a record
+  * RSA Archer
+* Update ticket (issue)
+  * Jira
+  * TheHive
+* Update ticket information
+  * Zendesk
+* Update ticket/record information
+  * ServiceNow
+* Updates an existing ticket
+  * Request Tracker
+
+
+
+## update user
+_1 unique descriptions / Provided by 1 apps_
+
+* Updates the basic information of the RAM user
+  * Alibaba RAM
+
+
+
+## update vlan replacement
+_1 unique descriptions / Provided by 1 apps_
+
+* Updates the vlan replacement settings of a filter
+  * Ixia Network Packet Broker
+
+
+
+## update vulnerability
+_1 unique descriptions / Provided by 1 apps_
+
+* Update a vulnerability
+  * Kenna Security
+
+
+
+## update zone
+_1 unique descriptions / Provided by 1 apps_
+
+* Update a zone
+  * CylancePROTECT
+
+
+
+## upload file
+_10 unique descriptions / Provided by 10 apps_
+
+* Copy a file from the vault to the Windows Endpoint
+  * Windows Remote Management
+* Save Container details to Google Drive
+  * IFTTT - Maker Channel
+* Upload a feed or parser file to a NetWitness Decoder
+  * NetWitness Logs and Packets
+* Upload a file from the Vault to Drive
+  * G Suite for Drive
+* Upload a file to a computer
+  * Carbon Black Protection (Bit9)
+* Upload file
+  * Microsoft OneDrive
+* Upload file from vault in current container
+  * ThreatQ
+* Upload file to HipChat
+  * HipChat
+* Upload file to Slack
+  * Slack
+* Upload file to a channel
+  * Mattermost
+
+
+
+## url intelligence
+_1 unique descriptions / Provided by 1 apps_
+
+* Get threat intelligence for a URL
+  * Recorded Future
+
+
+
+## url reputation
+_16 unique descriptions / Provided by 16 apps_
+
+* Determine the reputation of a URL
+  * Safe Browsing
+* Get URL reputation
+  * DeepSight
+* Get a quick indicator of the risk associated with a URL
+  * Recorded Future
+* Get attributes, related indicators, and related adversaries
+  * ThreatQ
+* Get information about a URL
+  * ThreatStream
+* Looks up information about URLs in Kaspersky Threat Intelligence Portal
+  * Kaspersky Threat Intelligence
+* Queries PhishTank for URL&#39;s phishing reputation
+  * PhishTank
+* Queries Polyswarm for url reputation info
+  * PolySwarm
+* Queries URL info
+  * EclecticIQ app
+* Queries VirusTotal for URL info
+  * VirusTotal
+* Queries WebPulse Site Review for URL info.
+  * Blue Coat
+* Queries for URL reputation information
+  * AlienVault OTX
+* Query Joe Sandbox for URL reputation
+  * Joe Sandbox v2
+* Query for URL reputation.
+  * isitPhishing
+* Returns URL reputation report.
+  * IBM XForce
+* URL Reputation
+  * Phishing Initiative
+
+
+
+## url scan
+_1 unique descriptions / Provided by 1 apps_
+
+* Perform a real-time URL reputation scan with SlashNext cloud-based SEER Engine
+  * SlashNext Phishing Incident Response
+
+
+
+## url scansync
+_1 unique descriptions / Provided by 1 apps_
+
+* Perform a real-time URL scan with SlashNext cloud-based SEER Engine in a blocking mode
+  * SlashNext Phishing Incident Response
+
+
+
+## validate group
+_1 unique descriptions / Provided by 1 apps_
+
+* Returns true if a user is in a group; otherwise, false
+  * Azure AD Graph
+
+
+
+## verdict query
+_1 unique descriptions / Provided by 1 apps_
+
+* Query Threat Response for Verdict
+  * Cisco Threat Response
+
+
+
+## vlan host
+_1 unique descriptions / Provided by 1 apps_
+
+* Set the vlan of the port on which the host is connected
+  * Cisco Catalyst
+
+
+
+## vulnerability intelligence
+_1 unique descriptions / Provided by 1 apps_
+
+* Get threat intelligence for a vulnerability
+  * Recorded Future
+
+
+
+## vulnerability reputation
+_1 unique descriptions / Provided by 1 apps_
+
+* Get a quick indicator of the risk associated with a vulnerability
+  * Recorded Future
+
+
+
+## watch user
+_1 unique descriptions / Provided by 1 apps_
+
+* Watch a user
+  * Preempt
+
+
+
+## whitelist ip
+_4 unique descriptions / Provided by 4 apps_
+
+* Add an IP address to the whitelist
+  * Zscaler
+* Add an IP to the Whitelist
+  * ThreatX
+* Add an IP to the outbound Whitelist
+  * Arbor APS
+* Whitelist IP by removing any block rules from NACLs
+  * AWS Community App
+
+
+
+## whitelist sender
+_1 unique descriptions / Provided by 1 apps_
+
+* Whitelists a specific sender and recipient in Mimecast
+  * Mimecast
+
+
+
+## whitelist url
+_2 unique descriptions / Provided by 2 apps_
+
+* Add a URL to the whitelist
+  * Zscaler
+* Adds URL to a managed URL whitelist
+  * Mimecast
+
+
+
+## whois domain
+_7 unique descriptions / Provided by 12 apps_
+
+* Execute a whois lookup on the given domain
+  * ThreatStream
+  * WHOIS
+  * HackerTarget
+* Execute whois lookup on the given domain
+  * SecurityTrails
+  * ThreatMiner API
+  * DomainTools
+  * Myip
+* Get all Iris data for a domain, including Whois
+  * DomainTools Iris
+* Get domain WHOIS info
+  * PassiveTotal
+* Get whois information for the given domain
+  * ZETAlytics
+* Returns WHOIS report
+  * IBM XForce
+* Run a whois query on OpenDNS for the given domain
+  * OpenDNS Investigate
+
+
+
+## whois history
+_1 unique descriptions / Provided by 2 apps_
+
+* Obtain historic whois records for a domain name
+  * SecurityTrails
+  * DomainTools
+
+
+
+## whois ip
+_4 unique descriptions / Provided by 9 apps_
+
+* Execute a whois lookup on the given IP
+  * ThreatStream
+  * WHOIS
+  * WHOIS RDAP
+  * HackerTarget
+* Execute whois lookup on the given IP address
+  * ThreatMiner API
+  * DomainTools
+  * Myip
+* Get IP WHOIS info
+  * PassiveTotal
+* Returns WHOIS report
+  * IBM XForce
+
+
+
